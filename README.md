@@ -4,5 +4,12 @@ Resources/IMDB_API_adventure100.csv
 "title"
 Resources/IMDB_API_adventure100_soundtrack.csv
 "id",
-"name",
-"comment",
+"image_url",
+"runningTimeInMinutes",
+"title",
+"titleType",
+"year",
+
+"soundtracks_id",
+"soundtracks_name",
+"soundtracks_comment",
