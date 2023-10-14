@@ -1,11 +1,10 @@
 # IMDB_Interactive_Dashboard
 
-Resources/IMDB_API_adventure100.csv
+Resources/IMDB_API_adventure100
+Resources/IMDB_API_100
 "title"
 
-
-Resources/IMDB_API_adventure100_moiveinfo.csv
-Moive info
+Resources/IMDB_API_adventure100_moiveinfo
 "id",
 "image_url",
 "runningTimeInMinutes",
@@ -13,14 +12,13 @@ Moive info
 "titleType",
 "year",
 
-Resources/IMDB_API_adventure100_soundtrack.csv
-Soundtrack info
+Resources/IMDB_API_adventure100_soundtrack
 "id",
 "soundtracks_id",
 "soundtracks_name",
 "soundtracks_comment",
 
-Resources/IMDB_API_adventure100_location.csv
+Resources/IMDB_API_adventure100_location
 "id",
 "location_id",
 "location_name",
