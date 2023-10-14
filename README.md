@@ -19,3 +19,8 @@ Soundtrack info
 "soundtracks_id",
 "soundtracks_name",
 "soundtracks_comment",
+
+Resources/IMDB_API_adventure100_location.csv
+"id",
+"location_id",
+"location_name",
