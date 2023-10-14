@@ -2,7 +2,9 @@
 
 Resources/IMDB_API_adventure100.csv
 "title"
-Resources/IMDB_API_adventure100_soundtrack.csv
+
+
+Resources/IMDB_API_adventure100_moiveinfo.csv
 Moive info
 "id",
 "image_url",
@@ -11,6 +13,7 @@ Moive info
 "titleType",
 "year",
 
+Resources/IMDB_API_adventure100_soundtrack.csv
 Soundtrack info
 "id",
 "soundtracks_id",
