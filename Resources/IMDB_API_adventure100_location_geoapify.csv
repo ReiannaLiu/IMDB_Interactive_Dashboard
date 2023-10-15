@@ -1,0 +1,1436 @@
+location_name,lat,lon
+"Bangkok, Thailand",13.7524938,100.4935089
+"Pinewood Studios, Pinewood Road, Iver Heath, Iver, Buckinghamshire, England, UK",51.5478149,-0.5315999
+Thailand,14.8971921,100.83273
+"Siem Reap, Cambodia",13.3617562,103.8590321
+"Venice Beach, Venice, Los Angeles, California, USA",33.97996005,-118.4687710293081
+"London, England, UK",51.5073359,-0.12765
+"Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Long Beach, California, USA",33.7690164,-118.191604
+"England, UK",52.5310214,-1.2649062
+"Venice Beach, California, USA",33.97996005,-118.4687710293081
+"1725 Main St, Santa Monica, California, USA",34.010858,-118.490391
+"Bank of America Plaza - 333 S Hope Street, Downtown, Los Angeles, California, USA",34.0564764,-118.250246
+"Venice Recreation Center - 1800 Ocean Front Walk, Venice, Los Angeles, California, USA",33.985813,-118.472843
+"Tongva Park - 1615 Ocean Ave, Santa Monica, California, USA",34.01025390625,-118.49334328124999
+"100 Wilshire Blvd, Santa Monica, California, USA",34.01684695,-118.50060128079218
+"Los Angeles County, California, USA",34.3155072,-118.209681
+"Southern California, California, USA",34.0218833,-118.28586662125
+"The Bridge, Spitzkoppe, Namibia",-21.8462106,15.1826066
+"Phuket, Thailand",7.8847901,98.3891503
+"Los Angeles, California, USA",34.0536909,-118.242766
+"Hong Kong, China",22.2793278,114.1628131
+"Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+China,35.000074,104.999927
+"Helsetkopen, Møre og Romsdal, Norway",62.06,6.971944
+"Hellesylt, Norway",62.085337,6.8696967
+"Grand Central, Birmingham, West Midlands, England, UK",52.477830999999995,-1.8980701011575878
+"Rome, Lazio, Italy",41.8933203,12.4829321
+"Stoney Middleton, Derbyshire, England, UK",53.2756112,-1.6595362
+"Åndalsnes, Rauma, Møre og Romsdal, Norway",62.5681692,7.6867621
+"Venice, Veneto, Italy",45.4371908,12.3345898
+"Ponte dei Conzafelzi, 30100 Venice, Veneto, Italy",45.4383358,12.3421131
+"Levisham, North Yorkshire, England, UK",54.3041093,-0.7210256
+"Trollveggen, Møre og Romsdal, Norway",62.4826699,7.7226498
+"Abu Dhabi, United Arab Emirates",24.4538352,54.3774014
+"Birmingham, West Midlands, England, UK",52.4796992,-1.9026911
+"Via di S. Maria Maggiore, Rome, Lazio, Italy",41.8973255,12.4957563
+"Via dei Funari, Rome, Lazio, Italy",41.893496,12.479073
+"Via Nazionale, Rome, Lazio, Italy",41.900078,12.4922571
+"Via dei Serpenti, Rome, Lazio, Italy",41.8980366,12.4893047
+"Via del Traforo, Rome, Lazio, Italy",41.9020905,12.4865373
+"The Bullring, Birmingham, UK",52.4779765,-1.8936259
+"Leighton Buzzard, Bedfordshire, UK",51.9165794,-0.6620551
+"ExCel London, 1 Western Gateway, Royal Victoria Dock, London, Greater London, England, UK",51.5077231,0.0288119
+"Buttermere, Cockermouth CA, UK",54.6607181,-3.3452574
+"Dubai, United Arab Emirates",25.2653471,55.2924914
+"Budapest, Hungary",47.4978918,19.0401609
+"Nürburgring Nordschleife, Nürburg, Rhineland-Palatinate, Germany",50.33333,6.95
+United Arab Emirates,24.0002488,53.9994829
+Germany,51.1638175,10.4478313
+Hungary,47.1817585,19.5060937
+Greece,38.9953683,21.9877132
+"Thessaloniki, Greece",40.6403167,22.9352716
+"Sofia, Bulgaria",42.6977028,23.3217359
+"Toronto, Ontario, Canada",43.6534817,-79.3839347
+"Montreal, Quebec, Canada",45.5031824,-73.5698065
+"Paris, France",48.8534951,2.3483915
+"Rome, Italy",41.8933203,12.4829321
+"Sydney, Australia",-33.8698439,151.2082848
+"Atlanta, Georgia, USA",33.7489924,-84.3902644
+Puerto Rico,18.2247706,-66.4858295
+"Decatur, Georgia, USA",33.7737582,-84.296069
+"Dunwoody, Georgia, USA",33.9463786,-84.3342686
+"New York City, New York, USA",40.7830439,-73.9527658
+"Sardinia, Italy",40.06150285,9.09758935360066
+"Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.5524651,-0.5321619024569935
+"Alnwick Castle, Alnwick, Northumberland, England, UK",55.41546099999999,-1.7065170268123597
+"Gloucester Cathedral, 12 College Green, Gloucester, Gloucestershire, England, UK",51.867796150000004,-2.248465618011078
+"Australia House, Strand, Westminster, Greater London, England, UK",51.5128785,-0.11559062893054399
+"Bangkok, Thailand",13.7524938,100.4935089
+"Pinewood Studios, Pinewood Road, Iver Heath, Iver, Buckinghamshire, England, UK",51.5478149,-0.5315999
+Thailand,14.8971921,100.83273
+"Siem Reap, Cambodia",13.3617562,103.8590321
+"Venice Beach, Venice, Los Angeles, California, USA",33.97996005,-118.4687710293081
+"London, England, UK",51.5073359,-0.12765
+"Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Long Beach, California, USA",33.7690164,-118.191604
+"England, UK",52.5310214,-1.2649062
+"Venice Beach, California, USA",33.97996005,-118.4687710293081
+"1725 Main St, Santa Monica, California, USA",34.010858,-118.490391
+"Bank of America Plaza - 333 S Hope Street, Downtown, Los Angeles, California, USA",34.0564764,-118.250246
+"Venice Recreation Center - 1800 Ocean Front Walk, Venice, Los Angeles, California, USA",33.985813,-118.472843
+"Tongva Park - 1615 Ocean Ave, Santa Monica, California, USA",34.01025390625,-118.49334328124999
+"100 Wilshire Blvd, Santa Monica, California, USA",34.01684695,-118.50060128079218
+"Los Angeles County, California, USA",34.3155072,-118.209681
+"Southern California, California, USA",34.0218833,-118.28586662125
+"The Bridge, Spitzkoppe, Namibia",-21.8462106,15.1826066
+"Phuket, Thailand",7.8847901,98.3891503
+"Los Angeles, California, USA",34.0536909,-118.242766
+"Hong Kong, China",22.2793278,114.1628131
+"Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+China,35.000074,104.999927
+"Helsetkopen, Møre og Romsdal, Norway",62.06,6.971944
+"Hellesylt, Norway",62.085337,6.8696967
+"Grand Central, Birmingham, West Midlands, England, UK",52.477830999999995,-1.8980701011575878
+"Rome, Lazio, Italy",41.8933203,12.4829321
+"Stoney Middleton, Derbyshire, England, UK",53.2756112,-1.6595362
+"Åndalsnes, Rauma, Møre og Romsdal, Norway",62.5681692,7.6867621
+"Venice, Veneto, Italy",45.4371908,12.3345898
+"Ponte dei Conzafelzi, 30100 Venice, Veneto, Italy",45.4383358,12.3421131
+"Levisham, North Yorkshire, England, UK",54.3041093,-0.7210256
+"Trollveggen, Møre og Romsdal, Norway",62.4826699,7.7226498
+"Abu Dhabi, United Arab Emirates",24.4538352,54.3774014
+"Birmingham, West Midlands, England, UK",52.4796992,-1.9026911
+"Via di S. Maria Maggiore, Rome, Lazio, Italy",41.8973255,12.4957563
+"Via dei Funari, Rome, Lazio, Italy",41.893496,12.479073
+"Via Nazionale, Rome, Lazio, Italy",41.900078,12.4922571
+"Via dei Serpenti, Rome, Lazio, Italy",41.8980366,12.4893047
+"Via del Traforo, Rome, Lazio, Italy",41.9020905,12.4865373
+"The Bullring, Birmingham, UK",52.4779765,-1.8936259
+"Leighton Buzzard, Bedfordshire, UK",51.9165794,-0.6620551
+"ExCel London, 1 Western Gateway, Royal Victoria Dock, London, Greater London, England, UK",51.5077231,0.0288119
+"Buttermere, Cockermouth CA, UK",54.6607181,-3.3452574
+"Dubai, United Arab Emirates",25.2653471,55.2924914
+"Budapest, Hungary",47.4978918,19.0401609
+"Nürburgring Nordschleife, Nürburg, Rhineland-Palatinate, Germany",50.33333,6.95
+United Arab Emirates,24.0002488,53.9994829
+Germany,51.1638175,10.4478313
+Hungary,47.1817585,19.5060937
+Greece,38.9953683,21.9877132
+"Thessaloniki, Greece",40.6403167,22.9352716
+"Sofia, Bulgaria",42.6977028,23.3217359
+"Toronto, Ontario, Canada",43.6534817,-79.3839347
+"Montreal, Quebec, Canada",45.5031824,-73.5698065
+"Paris, France",48.8534951,2.3483915
+"Rome, Italy",41.8933203,12.4829321
+"Sydney, Australia",-33.8698439,151.2082848
+"Atlanta, Georgia, USA",33.7489924,-84.3902644
+Puerto Rico,18.2247706,-66.4858295
+"Decatur, Georgia, USA",33.7737582,-84.296069
+"Dunwoody, Georgia, USA",33.9463786,-84.3342686
+"New York City, New York, USA",40.7830439,-73.9527658
+"Sardinia, Italy",40.06150285,9.09758935360066
+"Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.5524651,-0.5321619024569935
+"Alnwick Castle, Alnwick, Northumberland, England, UK",55.41546099999999,-1.7065170268123597
+"Gloucester Cathedral, 12 College Green, Gloucester, Gloucestershire, England, UK",51.867796150000004,-2.248465618011078
+"Australia House, Strand, Westminster, Greater London, England, UK",51.5128785,-0.11559062893054399
+"Bangkok, Thailand",13.7524938,100.4935089
+"Pinewood Studios, Pinewood Road, Iver Heath, Iver, Buckinghamshire, England, UK",51.5478149,-0.5315999
+Thailand,14.8971921,100.83273
+"Siem Reap, Cambodia",13.3617562,103.8590321
+"Venice Beach, Venice, Los Angeles, California, USA",33.97996005,-118.4687710293081
+"London, England, UK",51.5073359,-0.12765
+"Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Long Beach, California, USA",33.7690164,-118.191604
+"England, UK",52.5310214,-1.2649062
+"Venice Beach, California, USA",33.97996005,-118.4687710293081
+"1725 Main St, Santa Monica, California, USA",34.010858,-118.490391
+"Bank of America Plaza - 333 S Hope Street, Downtown, Los Angeles, California, USA",34.0564764,-118.250246
+"Venice Recreation Center - 1800 Ocean Front Walk, Venice, Los Angeles, California, USA",33.985813,-118.472843
+"Tongva Park - 1615 Ocean Ave, Santa Monica, California, USA",34.01025390625,-118.49334328124999
+"100 Wilshire Blvd, Santa Monica, California, USA",34.01684695,-118.50060128079218
+"Los Angeles County, California, USA",34.3155072,-118.209681
+"Southern California, California, USA",34.0218833,-118.28586662125
+"The Bridge, Spitzkoppe, Namibia",-21.8462106,15.1826066
+"Phuket, Thailand",7.8847901,98.3891503
+"Los Angeles, California, USA",34.0536909,-118.242766
+"Hong Kong, China",22.2793278,114.1628131
+"Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+China,35.000074,104.999927
+"Helsetkopen, Møre og Romsdal, Norway",62.06,6.971944
+"Hellesylt, Norway",62.085337,6.8696967
+"Grand Central, Birmingham, West Midlands, England, UK",52.477830999999995,-1.8980701011575878
+"Rome, Lazio, Italy",41.8933203,12.4829321
+"Stoney Middleton, Derbyshire, England, UK",53.2756112,-1.6595362
+"Åndalsnes, Rauma, Møre og Romsdal, Norway",62.5681692,7.6867621
+"Venice, Veneto, Italy",45.4371908,12.3345898
+"Ponte dei Conzafelzi, 30100 Venice, Veneto, Italy",45.4383358,12.3421131
+"Levisham, North Yorkshire, England, UK",54.3041093,-0.7210256
+"Trollveggen, Møre og Romsdal, Norway",62.4826699,7.7226498
+"Abu Dhabi, United Arab Emirates",24.4538352,54.3774014
+"Birmingham, West Midlands, England, UK",52.4796992,-1.9026911
+"Via di S. Maria Maggiore, Rome, Lazio, Italy",41.8973255,12.4957563
+"Via dei Funari, Rome, Lazio, Italy",41.893496,12.479073
+"Via Nazionale, Rome, Lazio, Italy",41.900078,12.4922571
+"Via dei Serpenti, Rome, Lazio, Italy",41.8980366,12.4893047
+"Via del Traforo, Rome, Lazio, Italy",41.9020905,12.4865373
+"The Bullring, Birmingham, UK",52.4779765,-1.8936259
+"Leighton Buzzard, Bedfordshire, UK",51.9165794,-0.6620551
+"ExCel London, 1 Western Gateway, Royal Victoria Dock, London, Greater London, England, UK",51.5077231,0.0288119
+"Buttermere, Cockermouth CA, UK",54.6607181,-3.3452574
+"Dubai, United Arab Emirates",25.2653471,55.2924914
+"Budapest, Hungary",47.4978918,19.0401609
+"Nürburgring Nordschleife, Nürburg, Rhineland-Palatinate, Germany",50.33333,6.95
+United Arab Emirates,24.0002488,53.9994829
+Germany,51.1638175,10.4478313
+Hungary,47.1817585,19.5060937
+Greece,38.9953683,21.9877132
+"Thessaloniki, Greece",40.6403167,22.9352716
+"Sofia, Bulgaria",42.6977028,23.3217359
+"Toronto, Ontario, Canada",43.6534817,-79.3839347
+"Montreal, Quebec, Canada",45.5031824,-73.5698065
+"Paris, France",48.8534951,2.3483915
+"Rome, Italy",41.8933203,12.4829321
+"Sydney, Australia",-33.8698439,151.2082848
+"Atlanta, Georgia, USA",33.7489924,-84.3902644
+Puerto Rico,18.2247706,-66.4858295
+"Decatur, Georgia, USA",33.7737582,-84.296069
+"Dunwoody, Georgia, USA",33.9463786,-84.3342686
+"New York City, New York, USA",40.7830439,-73.9527658
+"Sardinia, Italy",40.06150285,9.09758935360066
+"Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.5524651,-0.5321619024569935
+"Alnwick Castle, Alnwick, Northumberland, England, UK",55.41546099999999,-1.7065170268123597
+"Gloucester Cathedral, 12 College Green, Gloucester, Gloucestershire, England, UK",51.867796150000004,-2.248465618011078
+"Australia House, Strand, Westminster, Greater London, England, UK",51.5128785,-0.11559062893054399
+"Handyside Bridge, King's Cross Railway Station, Euston Road, King's Cross, London, Greater London, England, UK",51.5323954,-0.1230224
+"12 Picket Post Close, Martin's Heron, Bracknell, Berkshire, England, UK",51.408623950000006,-0.721407625
+"Goathland Railway Station, Cow Wath Bank, Goathland, Whitby, North Yorkshire, England, UK",54.405828,-0.695982
+"King's Cross Railway Station, Euston Road, King's Cross, London, Greater London, England, UK",51.52629,-0.113729
+"West Highland Railway Line, Scotland, UK",56.7861112,-4.1140518
+"Black Park Country Park, Black Park Road, Wexham, Buckinghamshire, England, UK",51.5432115,-0.5530384
+"Lacock Abbey, Lacock, Chippenham, Wiltshire, England, UK",51.41497755,-2.122572261115838
+"Glen Nevis, Fort William, Highland, Scotland, UK",56.8104264,-5.079190382251048
+"Duke Humfrey's Library, Bodleian Library, Broad Street, Oxford, Oxfordshire, England, UK",51.754903,-1.254312
+"Durham Cathedral, The College, Durham, County Durham, England, UK",54.77326195,-1.5763332649262018
+"Christ Church College, St Aldate's, Oxford, Oxfordshire, England, UK",53.7568804,-2.7113924488513588
+"Leadenhall Market, Gracechurch Street, City of London, England, UK",51.512680200000005,-0.08341182035558237
+"Divinity School, Bodleian Library, Broad Street, Oxford, Oxfordshire, England, UK",51.754903,-1.254312
+"Harrow School - 5 High Street, Harrow on the Hill, Harrow, Greater London, England, UK",51.57174325,-0.3311519058273208
+"London Zoo, Regent's Park, Marylebone, Westminster, Greater London, England, UK",51.5236277,-0.1466357
+"20 Church Street, Lacock, Chippenham, Wiltshire, England, UK",52.037059799999994,-0.3029926464285714
+"D Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"C Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"F Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Flight Shed/L Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"A Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"B Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"H Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"I Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"G Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+Iceland,64.9841821,-18.1059013
+"Carrickfergus, County Antrim, Northern Ireland, UK",54.7136165,-5.8073112
+"Clandeboye Estate, Bangor, County Down, Northern Ireland, UK",54.662595,-5.6679127
+"Castle Ward, Strangford, County Down, Northern Ireland, UK",54.364665349999996,-5.569926227192168
+"Belfast, County Antrim, Northern Ireland, UK",54.596391,-5.9301829
+"Dún Briste Sea Stack, County Mayo, Ireland",53.9087056,-9.298304863654256
+"Wells Cathedral, Wells, Somerset, England, UK",51.2103879,-2.64353800873494
+"Walt Disney Feature Animation - 500 S. Buena Vista Street, Burbank, California, USA",34.156874,-118.325027
+"Walt Disney Animation Studios - 2100 Riverside Drive, Burbank, California, USA",34.156111,-118.322526
+"Georgia, USA",32.3293809,-83.1137366
+"Bangkok, Thailand",13.7524938,100.4935089
+"Pinewood Studios, Pinewood Road, Iver Heath, Iver, Buckinghamshire, England, UK",51.5478149,-0.5315999
+Thailand,14.8971921,100.83273
+"Siem Reap, Cambodia",13.3617562,103.8590321
+"Venice Beach, Venice, Los Angeles, California, USA",33.97996005,-118.4687710293081
+"London, England, UK",51.5073359,-0.12765
+"Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Long Beach, California, USA",33.7690164,-118.191604
+"England, UK",52.5310214,-1.2649062
+"Venice Beach, California, USA",33.97996005,-118.4687710293081
+"1725 Main St, Santa Monica, California, USA",34.010858,-118.490391
+"Bank of America Plaza - 333 S Hope Street, Downtown, Los Angeles, California, USA",34.0564764,-118.250246
+"Venice Recreation Center - 1800 Ocean Front Walk, Venice, Los Angeles, California, USA",33.985813,-118.472843
+"Tongva Park - 1615 Ocean Ave, Santa Monica, California, USA",34.01025390625,-118.49334328124999
+"100 Wilshire Blvd, Santa Monica, California, USA",34.01684695,-118.50060128079218
+"Los Angeles County, California, USA",34.3155072,-118.209681
+"Southern California, California, USA",34.0218833,-118.28586662125
+"The Bridge, Spitzkoppe, Namibia",-21.8462106,15.1826066
+"Phuket, Thailand",7.8847901,98.3891503
+"Los Angeles, California, USA",34.0536909,-118.242766
+"Hong Kong, China",22.2793278,114.1628131
+"Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+China,35.000074,104.999927
+"Helsetkopen, Møre og Romsdal, Norway",62.06,6.971944
+"Hellesylt, Norway",62.085337,6.8696967
+"Grand Central, Birmingham, West Midlands, England, UK",52.477830999999995,-1.8980701011575878
+"Rome, Lazio, Italy",41.8933203,12.4829321
+"Stoney Middleton, Derbyshire, England, UK",53.2756112,-1.6595362
+"Åndalsnes, Rauma, Møre og Romsdal, Norway",62.5681692,7.6867621
+"Venice, Veneto, Italy",45.4371908,12.3345898
+"Ponte dei Conzafelzi, 30100 Venice, Veneto, Italy",45.4383358,12.3421131
+"Levisham, North Yorkshire, England, UK",54.3041093,-0.7210256
+"Trollveggen, Møre og Romsdal, Norway",62.4826699,7.7226498
+"Abu Dhabi, United Arab Emirates",24.4538352,54.3774014
+"Birmingham, West Midlands, England, UK",52.4796992,-1.9026911
+"Via di S. Maria Maggiore, Rome, Lazio, Italy",41.8973255,12.4957563
+"Via dei Funari, Rome, Lazio, Italy",41.893496,12.479073
+"Via Nazionale, Rome, Lazio, Italy",41.900078,12.4922571
+"Via dei Serpenti, Rome, Lazio, Italy",41.8980366,12.4893047
+"Via del Traforo, Rome, Lazio, Italy",41.9020905,12.4865373
+"The Bullring, Birmingham, UK",52.4779765,-1.8936259
+"Leighton Buzzard, Bedfordshire, UK",51.9165794,-0.6620551
+"ExCel London, 1 Western Gateway, Royal Victoria Dock, London, Greater London, England, UK",51.5077231,0.0288119
+"Buttermere, Cockermouth CA, UK",54.6607181,-3.3452574
+"Dubai, United Arab Emirates",25.2653471,55.2924914
+"Budapest, Hungary",47.4978918,19.0401609
+"Nürburgring Nordschleife, Nürburg, Rhineland-Palatinate, Germany",50.33333,6.95
+United Arab Emirates,24.0002488,53.9994829
+Germany,51.1638175,10.4478313
+Hungary,47.1817585,19.5060937
+Greece,38.9953683,21.9877132
+"Thessaloniki, Greece",40.6403167,22.9352716
+"Sofia, Bulgaria",42.6977028,23.3217359
+"Toronto, Ontario, Canada",43.6534817,-79.3839347
+"Montreal, Quebec, Canada",45.5031824,-73.5698065
+"Paris, France",48.8534951,2.3483915
+"Rome, Italy",41.8933203,12.4829321
+"Sydney, Australia",-33.8698439,151.2082848
+"Atlanta, Georgia, USA",33.7489924,-84.3902644
+Puerto Rico,18.2247706,-66.4858295
+"Decatur, Georgia, USA",33.7737582,-84.296069
+"Dunwoody, Georgia, USA",33.9463786,-84.3342686
+"New York City, New York, USA",40.7830439,-73.9527658
+"Sardinia, Italy",40.06150285,9.09758935360066
+"Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.5524651,-0.5321619024569935
+"Alnwick Castle, Alnwick, Northumberland, England, UK",55.41546099999999,-1.7065170268123597
+"Gloucester Cathedral, 12 College Green, Gloucester, Gloucestershire, England, UK",51.867796150000004,-2.248465618011078
+"Australia House, Strand, Westminster, Greater London, England, UK",51.5128785,-0.11559062893054399
+"Handyside Bridge, King's Cross Railway Station, Euston Road, King's Cross, London, Greater London, England, UK",51.5323954,-0.1230224
+"12 Picket Post Close, Martin's Heron, Bracknell, Berkshire, England, UK",51.408623950000006,-0.721407625
+"Goathland Railway Station, Cow Wath Bank, Goathland, Whitby, North Yorkshire, England, UK",54.405828,-0.695982
+"King's Cross Railway Station, Euston Road, King's Cross, London, Greater London, England, UK",51.52629,-0.113729
+"West Highland Railway Line, Scotland, UK",56.7861112,-4.1140518
+"Black Park Country Park, Black Park Road, Wexham, Buckinghamshire, England, UK",51.5432115,-0.5530384
+"Lacock Abbey, Lacock, Chippenham, Wiltshire, England, UK",51.41497755,-2.122572261115838
+"Glen Nevis, Fort William, Highland, Scotland, UK",56.8104264,-5.079190382251048
+"Duke Humfrey's Library, Bodleian Library, Broad Street, Oxford, Oxfordshire, England, UK",51.754903,-1.254312
+"Durham Cathedral, The College, Durham, County Durham, England, UK",54.77326195,-1.5763332649262018
+"Christ Church College, St Aldate's, Oxford, Oxfordshire, England, UK",53.7568804,-2.7113924488513588
+"Leadenhall Market, Gracechurch Street, City of London, England, UK",51.512680200000005,-0.08341182035558237
+"Divinity School, Bodleian Library, Broad Street, Oxford, Oxfordshire, England, UK",51.754903,-1.254312
+"Harrow School - 5 High Street, Harrow on the Hill, Harrow, Greater London, England, UK",51.57174325,-0.3311519058273208
+"London Zoo, Regent's Park, Marylebone, Westminster, Greater London, England, UK",51.5236277,-0.1466357
+"20 Church Street, Lacock, Chippenham, Wiltshire, England, UK",52.037059799999994,-0.3029926464285714
+"D Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"C Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"F Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Flight Shed/L Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"A Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"B Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"H Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"I Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"G Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+Iceland,64.9841821,-18.1059013
+"Carrickfergus, County Antrim, Northern Ireland, UK",54.7136165,-5.8073112
+"Clandeboye Estate, Bangor, County Down, Northern Ireland, UK",54.662595,-5.6679127
+"Castle Ward, Strangford, County Down, Northern Ireland, UK",54.364665349999996,-5.569926227192168
+"Belfast, County Antrim, Northern Ireland, UK",54.596391,-5.9301829
+"Dún Briste Sea Stack, County Mayo, Ireland",53.9087056,-9.298304863654256
+"Wells Cathedral, Wells, Somerset, England, UK",51.2103879,-2.64353800873494
+"Walt Disney Feature Animation - 500 S. Buena Vista Street, Burbank, California, USA",34.156874,-118.325027
+"Walt Disney Animation Studios - 2100 Riverside Drive, Burbank, California, USA",34.156111,-118.322526
+"Georgia, USA",32.3293809,-83.1137366
+UK,54.7023545,-3.2765753
+USA,39.7837304,-100.445882
+"North Yorkshire Moors Railway, 12 Park Street, Pickering, North Yorkshire, England, UK",52.664138300000005,0.16599079131865196
+"North York Moors Railway, North Yorkshire, England, UK",54.41667,-0.75
+"Bamburgh Castle, Bamburgh, Northumberland, England, UK",55.60944395,-1.7112670801185126
+"Holy Island of Lindisfarne, Berwick-upon-Tweed, Northumberland, England, UK",55.7692442,-2.0026472
+"Marsala, Trapani, Sicily, Italy",37.7979221,12.4342091
+"Glasgow, Scotland, UK",55.861155,-4.2501687
+"Cefalù, Palermo, Sicily, Italy",38.034957,14.0244562
+"Ear of Dionysius, Via Ettore Romagnoli, Siracusa, Sicily, Italy",37.0767088,15.278939
+"St. Vincent Street, Glasgow, Glasgow City, Scotland, UK",55.8630327,-4.2712298
+"Castellammare del Golfo, Trapani, Sicily, Italy",38.018846,12.885837
+"Parnie Street, Glasgow, Glasgow City, Scotland, UK",55.8564003,-4.2461675
+"Tempio di Segesta, Segesta, Calatafimi-Segesta, Trapani, Sicily, Italy",37.9496202,12.8282195
+"Melrose, Scotland, UK",55.5975944,-2.7199682
+"Tonnara del Secco, Zarbo di Mare, San Vito Lo Capo, Trapani, Sicily, Italy",38.1673357,12.768905
+"Leaderfoot Viaduct, Melrose, Scottish Borders, Scotland, UK",55.6055928,-2.6775083
+"Wadi Rum, Jordan",29.5704403,35.4225213
+"Stadlandet, Norway",62.1019744,5.3068003
+"Liwa Oasis, Abu Dhabi, United Arab Emirates",24.413778100000002,54.59007302161599
+"Origo Film Studios, Budapest, Hungary",47.4978918,19.0401609
+Jordan,44.6663146,-93.6261918
+Austria,47.59397,14.12456
+Norway,61.1529386,8.7876653
+Slovakia,48.7411522,19.4528646
+"Landschaftspark, Duisburg, North Rhine-Westphalia, Germany",51.476071250000004,6.764408079513304
+"Wroclaw, Dolnoslaskie, Poland",51.097349,17.023978
+"Berlin, Germany",52.5170365,13.3888599
+"Krematorium Baumschulenweg, Berlin, Germany",52.45957265,13.491205154678466
+"Olympiastadion, Charlottenburg, Berlin, Germany",52.5145846,13.239814417756278
+Poland,52.215933,19.134422
+"Völkerschlachtdenkmal, Leipzig, Sachsen, Germany",51.3124744,12.413515851638085
+"Britzer Garten, Berlin, Germany",52.43335765,13.41687681927067
+"Zalew Grzedy, Poland",52.215933,19.134422
+"Altes Museum, Berlin, Germany",52.519455449999995,13.398787286532126
+"Bärensaal, Altes Stadthaus, Berlin, Germany",52.5165518,13.411231334564988
+"Tieranatomisches Theater, Humboldt University, Berlin, Germany",52.5183402,13.392920232320172
+"Calgary, Alberta, Canada",51.0456064,-114.0575418
+"Lethbridge, Alberta, Canada",49.6945782,-112.8331033
+"Nanton, Alberta, Canada",50.354074,-113.781067
+"200 block of 24th St, Fort Macleod, Alberta, Canada",49.7257719,-113.405385
+"Canmore, Alberta, Canada",51.0866897,-115.3481135
+"Westin Bonaventure Hotel & Suites - 404 S. Figueroa Street, Downtown, Los Angeles, California, USA",34.0520645,-118.255924
+"Svínafellsjökull, Vatnajökull, Austurland, Iceland",64.354886,-15.264953
+"Okotoks, Alberta, Canada",50.7253685,-113.975082
+"Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA",34.016999,-118.403816
+"Altadena, California, USA",34.197486,-118.138961
+"Torrance, California, USA",33.8358492,-118.3406288
+"Downtown, Los Angeles, California, USA",34.047996,-118.2521002
+"Los Angeles Convention Center - 1201 S. Figueroa Street, Downtown, Los Angeles, California, USA",34.0438668,-118.26889
+"Longview, Alberta, Canada",50.532999,-114.230784
+"1525 Industrial St, Los Angeles, California, USA",34.036156,-118.237481
+"California, USA",36.7014631,-118.755997
+Canada,61.0666922,-107.991707
+"Cheyenne Mountain Complex, Colorado, USA",38.73893295,-104.84255424976142
+"130 St Vincent Street, Glasgow, Scotland, UK",55.86188025,-4.257878922057468
+"St Paul's Churchyard, London, England, UK",51.47963585,-0.024356480222337173
+"Senate House, Malet Street, London, England, UK",51.5213615,-0.1285754
+"Waltham Cross, Hertfordshire, England, UK",51.6857829,-0.0330001
+"77 Charterhouse Street, Clerkenwell, London, England, UK",51.5203924,-0.1004944
+"Burghley House, Stamford, England, UK",52.6425003,-0.45230320487022024
+"Hatfield House, Hatfield, Hertfordshire, England, UK",51.7605139,-0.20879851305478084
+"Knebworth House, Knebworth, England, UK",51.8728538,-0.2148134542252233
+"A24 Highway AKA Autoestrada do Interior Norte, Portugal",39.6621648,-8.1353519
+"Vila Real, Portugal",41.3021183,-7.744898
+"Viseu, Portugal",40.6574713,-7.9138664
+"Lisboa, Portugal",38.7077507,-9.1365919
+"Turin, Italy",45.0677551,7.6824892
+"Cabril dam, Portugal",39.91739595,-8.13126718374037
+"ARTIC Transportaion Center Anaheim, California, USA",36.7014631,-118.755997
+"Presa de aldeadávila, Salamanca, Castilla y León, Spain",41.21163145,-6.686185681370011
+"Bray, Ireland",53.20122935,-6.106950097366967
+"Wicklow County, Ireland",52.980449,-6.050339
+"Coos Bay, Oregon, USA",43.3678937,-124.2174647
+"Gold Beach, Oregon, USA",42.4074459,-124.4217418
+"Ardmore Studios, Herbert Road, Bray, County Wicklow, Ireland",53.2010579,-6.1220897
+"Agness, Oregon, USA",42.5565,-124.06898
+"Brookings, Oregon, USA",42.056447,-124.283767
+"Vernon Parish, Louisiana, USA",31.123862,-93.184181
+"New Orleans, Louisiana, USA",29.9759983,-90.0782127
+"Covington, Louisiana, USA",30.4753525,-90.1010474
+"New Sarpy, Louisiana, USA",29.985983,-90.376007
+"Second Line Stages, New Orleans, Louisiana, USA",29.9759983,-90.0782127
+"Chicago, Illinois, USA",41.8755616,-87.6244212
+"St Charles, Illinois, USA",41.9139808,-88.3128183
+Dominican Republic,19.0974031,-70.3028026
+"Lincoln, Lincolnshire, England, UK",53.2293545,-0.5404819
+"Woodstock, Oxfordshire, England, UK",51.856462,-1.347822
+"Kalkara, Malta",35.8898771,14.5290867
+"Merzuga desert, Morocco",31.1728205,-7.3362482
+"Bangkok, Thailand",13.7524938,100.4935089
+"Pinewood Studios, Pinewood Road, Iver Heath, Iver, Buckinghamshire, England, UK",51.5478149,-0.5315999
+Thailand,14.8971921,100.83273
+"Siem Reap, Cambodia",13.3617562,103.8590321
+"Venice Beach, Venice, Los Angeles, California, USA",33.97996005,-118.4687710293081
+"London, England, UK",51.5073359,-0.12765
+"Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Long Beach, California, USA",33.7690164,-118.191604
+"England, UK",52.5310214,-1.2649062
+"Venice Beach, California, USA",33.97996005,-118.4687710293081
+"1725 Main St, Santa Monica, California, USA",34.010858,-118.490391
+"Bank of America Plaza - 333 S Hope Street, Downtown, Los Angeles, California, USA",34.0564764,-118.250246
+"Venice Recreation Center - 1800 Ocean Front Walk, Venice, Los Angeles, California, USA",33.985813,-118.472843
+"Tongva Park - 1615 Ocean Ave, Santa Monica, California, USA",34.01025390625,-118.49334328124999
+"100 Wilshire Blvd, Santa Monica, California, USA",34.01684695,-118.50060128079218
+"Los Angeles County, California, USA",34.3155072,-118.209681
+"Southern California, California, USA",34.0218833,-118.28586662125
+"The Bridge, Spitzkoppe, Namibia",-21.8462106,15.1826066
+"Phuket, Thailand",7.8847901,98.3891503
+"Los Angeles, California, USA",34.0536909,-118.242766
+"Hong Kong, China",22.2793278,114.1628131
+"Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+China,35.000074,104.999927
+"Helsetkopen, Møre og Romsdal, Norway",62.06,6.971944
+"Hellesylt, Norway",62.085337,6.8696967
+"Grand Central, Birmingham, West Midlands, England, UK",52.477830999999995,-1.8980701011575878
+"Rome, Lazio, Italy",41.8933203,12.4829321
+"Stoney Middleton, Derbyshire, England, UK",53.2756112,-1.6595362
+"Åndalsnes, Rauma, Møre og Romsdal, Norway",62.5681692,7.6867621
+"Venice, Veneto, Italy",45.4371908,12.3345898
+"Ponte dei Conzafelzi, 30100 Venice, Veneto, Italy",45.4383358,12.3421131
+"Levisham, North Yorkshire, England, UK",54.3041093,-0.7210256
+"Trollveggen, Møre og Romsdal, Norway",62.4826699,7.7226498
+"Abu Dhabi, United Arab Emirates",24.4538352,54.3774014
+"Birmingham, West Midlands, England, UK",52.4796992,-1.9026911
+"Via di S. Maria Maggiore, Rome, Lazio, Italy",41.8973255,12.4957563
+"Via dei Funari, Rome, Lazio, Italy",41.893496,12.479073
+"Via Nazionale, Rome, Lazio, Italy",41.900078,12.4922571
+"Via dei Serpenti, Rome, Lazio, Italy",41.8980366,12.4893047
+"Via del Traforo, Rome, Lazio, Italy",41.9020905,12.4865373
+"The Bullring, Birmingham, UK",52.4779765,-1.8936259
+"Leighton Buzzard, Bedfordshire, UK",51.9165794,-0.6620551
+"ExCel London, 1 Western Gateway, Royal Victoria Dock, London, Greater London, England, UK",51.5077231,0.0288119
+"Buttermere, Cockermouth CA, UK",54.6607181,-3.3452574
+"Dubai, United Arab Emirates",25.2653471,55.2924914
+"Budapest, Hungary",47.4978918,19.0401609
+"Nürburgring Nordschleife, Nürburg, Rhineland-Palatinate, Germany",50.33333,6.95
+United Arab Emirates,24.0002488,53.9994829
+Germany,51.1638175,10.4478313
+Hungary,47.1817585,19.5060937
+Greece,38.9953683,21.9877132
+"Thessaloniki, Greece",40.6403167,22.9352716
+"Sofia, Bulgaria",42.6977028,23.3217359
+"Toronto, Ontario, Canada",43.6534817,-79.3839347
+"Montreal, Quebec, Canada",45.5031824,-73.5698065
+"Paris, France",48.8534951,2.3483915
+"Rome, Italy",41.8933203,12.4829321
+"Sydney, Australia",-33.8698439,151.2082848
+"Atlanta, Georgia, USA",33.7489924,-84.3902644
+Puerto Rico,18.2247706,-66.4858295
+"Decatur, Georgia, USA",33.7737582,-84.296069
+"Dunwoody, Georgia, USA",33.9463786,-84.3342686
+"New York City, New York, USA",40.7830439,-73.9527658
+"Sardinia, Italy",40.06150285,9.09758935360066
+"Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.5524651,-0.5321619024569935
+"Alnwick Castle, Alnwick, Northumberland, England, UK",55.41546099999999,-1.7065170268123597
+"Gloucester Cathedral, 12 College Green, Gloucester, Gloucestershire, England, UK",51.867796150000004,-2.248465618011078
+"Australia House, Strand, Westminster, Greater London, England, UK",51.5128785,-0.11559062893054399
+"Handyside Bridge, King's Cross Railway Station, Euston Road, King's Cross, London, Greater London, England, UK",51.5323954,-0.1230224
+"12 Picket Post Close, Martin's Heron, Bracknell, Berkshire, England, UK",51.408623950000006,-0.721407625
+"Goathland Railway Station, Cow Wath Bank, Goathland, Whitby, North Yorkshire, England, UK",54.405828,-0.695982
+"King's Cross Railway Station, Euston Road, King's Cross, London, Greater London, England, UK",51.52629,-0.113729
+"West Highland Railway Line, Scotland, UK",56.7861112,-4.1140518
+"Black Park Country Park, Black Park Road, Wexham, Buckinghamshire, England, UK",51.5432115,-0.5530384
+"Lacock Abbey, Lacock, Chippenham, Wiltshire, England, UK",51.41497755,-2.122572261115838
+"Glen Nevis, Fort William, Highland, Scotland, UK",56.8104264,-5.079190382251048
+"Duke Humfrey's Library, Bodleian Library, Broad Street, Oxford, Oxfordshire, England, UK",51.754903,-1.254312
+"Durham Cathedral, The College, Durham, County Durham, England, UK",54.77326195,-1.5763332649262018
+"Christ Church College, St Aldate's, Oxford, Oxfordshire, England, UK",53.7568804,-2.7113924488513588
+"Leadenhall Market, Gracechurch Street, City of London, England, UK",51.512680200000005,-0.08341182035558237
+"Divinity School, Bodleian Library, Broad Street, Oxford, Oxfordshire, England, UK",51.754903,-1.254312
+"Harrow School - 5 High Street, Harrow on the Hill, Harrow, Greater London, England, UK",51.57174325,-0.3311519058273208
+"London Zoo, Regent's Park, Marylebone, Westminster, Greater London, England, UK",51.5236277,-0.1466357
+"20 Church Street, Lacock, Chippenham, Wiltshire, England, UK",52.037059799999994,-0.3029926464285714
+"D Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"C Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"F Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Flight Shed/L Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"A Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"B Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"H Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"I Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"G Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+Iceland,64.9841821,-18.1059013
+"Carrickfergus, County Antrim, Northern Ireland, UK",54.7136165,-5.8073112
+"Clandeboye Estate, Bangor, County Down, Northern Ireland, UK",54.662595,-5.6679127
+"Castle Ward, Strangford, County Down, Northern Ireland, UK",54.364665349999996,-5.569926227192168
+"Belfast, County Antrim, Northern Ireland, UK",54.596391,-5.9301829
+"Dún Briste Sea Stack, County Mayo, Ireland",53.9087056,-9.298304863654256
+"Wells Cathedral, Wells, Somerset, England, UK",51.2103879,-2.64353800873494
+"Walt Disney Feature Animation - 500 S. Buena Vista Street, Burbank, California, USA",34.156874,-118.325027
+"Walt Disney Animation Studios - 2100 Riverside Drive, Burbank, California, USA",34.156111,-118.322526
+"Georgia, USA",32.3293809,-83.1137366
+UK,54.7023545,-3.2765753
+USA,39.7837304,-100.445882
+"North Yorkshire Moors Railway, 12 Park Street, Pickering, North Yorkshire, England, UK",52.664138300000005,0.16599079131865196
+"North York Moors Railway, North Yorkshire, England, UK",54.41667,-0.75
+"Bamburgh Castle, Bamburgh, Northumberland, England, UK",55.60944395,-1.7112670801185126
+"Holy Island of Lindisfarne, Berwick-upon-Tweed, Northumberland, England, UK",55.7692442,-2.0026472
+"Marsala, Trapani, Sicily, Italy",37.7979221,12.4342091
+"Glasgow, Scotland, UK",55.861155,-4.2501687
+"Cefalù, Palermo, Sicily, Italy",38.034957,14.0244562
+"Ear of Dionysius, Via Ettore Romagnoli, Siracusa, Sicily, Italy",37.0767088,15.278939
+"St. Vincent Street, Glasgow, Glasgow City, Scotland, UK",55.8630327,-4.2712298
+"Castellammare del Golfo, Trapani, Sicily, Italy",38.018846,12.885837
+"Parnie Street, Glasgow, Glasgow City, Scotland, UK",55.8564003,-4.2461675
+"Tempio di Segesta, Segesta, Calatafimi-Segesta, Trapani, Sicily, Italy",37.9496202,12.8282195
+"Melrose, Scotland, UK",55.5975944,-2.7199682
+"Tonnara del Secco, Zarbo di Mare, San Vito Lo Capo, Trapani, Sicily, Italy",38.1673357,12.768905
+"Leaderfoot Viaduct, Melrose, Scottish Borders, Scotland, UK",55.6055928,-2.6775083
+"Wadi Rum, Jordan",29.5704403,35.4225213
+"Stadlandet, Norway",62.1019744,5.3068003
+"Liwa Oasis, Abu Dhabi, United Arab Emirates",24.413778100000002,54.59007302161599
+"Origo Film Studios, Budapest, Hungary",47.4978918,19.0401609
+Jordan,44.6663146,-93.6261918
+Austria,47.59397,14.12456
+Norway,61.1529386,8.7876653
+Slovakia,48.7411522,19.4528646
+"Landschaftspark, Duisburg, North Rhine-Westphalia, Germany",51.476071250000004,6.764408079513304
+"Wroclaw, Dolnoslaskie, Poland",51.097349,17.023978
+"Berlin, Germany",52.5170365,13.3888599
+"Krematorium Baumschulenweg, Berlin, Germany",52.45957265,13.491205154678466
+"Olympiastadion, Charlottenburg, Berlin, Germany",52.5145846,13.239814417756278
+Poland,52.215933,19.134422
+"Völkerschlachtdenkmal, Leipzig, Sachsen, Germany",51.3124744,12.413515851638085
+"Britzer Garten, Berlin, Germany",52.43335765,13.41687681927067
+"Zalew Grzedy, Poland",52.215933,19.134422
+"Altes Museum, Berlin, Germany",52.519455449999995,13.398787286532126
+"Bärensaal, Altes Stadthaus, Berlin, Germany",52.5165518,13.411231334564988
+"Tieranatomisches Theater, Humboldt University, Berlin, Germany",52.5183402,13.392920232320172
+"Calgary, Alberta, Canada",51.0456064,-114.0575418
+"Lethbridge, Alberta, Canada",49.6945782,-112.8331033
+"Nanton, Alberta, Canada",50.354074,-113.781067
+"200 block of 24th St, Fort Macleod, Alberta, Canada",49.7257719,-113.405385
+"Canmore, Alberta, Canada",51.0866897,-115.3481135
+"Westin Bonaventure Hotel & Suites - 404 S. Figueroa Street, Downtown, Los Angeles, California, USA",34.0520645,-118.255924
+"Svínafellsjökull, Vatnajökull, Austurland, Iceland",64.354886,-15.264953
+"Okotoks, Alberta, Canada",50.7253685,-113.975082
+"Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA",34.016999,-118.403816
+"Altadena, California, USA",34.197486,-118.138961
+"Torrance, California, USA",33.8358492,-118.3406288
+"Downtown, Los Angeles, California, USA",34.047996,-118.2521002
+"Los Angeles Convention Center - 1201 S. Figueroa Street, Downtown, Los Angeles, California, USA",34.0438668,-118.26889
+"Longview, Alberta, Canada",50.532999,-114.230784
+"1525 Industrial St, Los Angeles, California, USA",34.036156,-118.237481
+"California, USA",36.7014631,-118.755997
+Canada,61.0666922,-107.991707
+"Cheyenne Mountain Complex, Colorado, USA",38.73893295,-104.84255424976142
+"130 St Vincent Street, Glasgow, Scotland, UK",55.86188025,-4.257878922057468
+"St Paul's Churchyard, London, England, UK",51.47963585,-0.024356480222337173
+"Senate House, Malet Street, London, England, UK",51.5213615,-0.1285754
+"Waltham Cross, Hertfordshire, England, UK",51.6857829,-0.0330001
+"77 Charterhouse Street, Clerkenwell, London, England, UK",51.5203924,-0.1004944
+"Burghley House, Stamford, England, UK",52.6425003,-0.45230320487022024
+"Hatfield House, Hatfield, Hertfordshire, England, UK",51.7605139,-0.20879851305478084
+"Knebworth House, Knebworth, England, UK",51.8728538,-0.2148134542252233
+"A24 Highway AKA Autoestrada do Interior Norte, Portugal",39.6621648,-8.1353519
+"Vila Real, Portugal",41.3021183,-7.744898
+"Viseu, Portugal",40.6574713,-7.9138664
+"Lisboa, Portugal",38.7077507,-9.1365919
+"Turin, Italy",45.0677551,7.6824892
+"Cabril dam, Portugal",39.91739595,-8.13126718374037
+"ARTIC Transportaion Center Anaheim, California, USA",36.7014631,-118.755997
+"Presa de aldeadávila, Salamanca, Castilla y León, Spain",41.21163145,-6.686185681370011
+"Bray, Ireland",53.20122935,-6.106950097366967
+"Wicklow County, Ireland",52.980449,-6.050339
+"Coos Bay, Oregon, USA",43.3678937,-124.2174647
+"Gold Beach, Oregon, USA",42.4074459,-124.4217418
+"Ardmore Studios, Herbert Road, Bray, County Wicklow, Ireland",53.2010579,-6.1220897
+"Agness, Oregon, USA",42.5565,-124.06898
+"Brookings, Oregon, USA",42.056447,-124.283767
+"Vernon Parish, Louisiana, USA",31.123862,-93.184181
+"New Orleans, Louisiana, USA",29.9759983,-90.0782127
+"Covington, Louisiana, USA",30.4753525,-90.1010474
+"New Sarpy, Louisiana, USA",29.985983,-90.376007
+"Second Line Stages, New Orleans, Louisiana, USA",29.9759983,-90.0782127
+"Chicago, Illinois, USA",41.8755616,-87.6244212
+"St Charles, Illinois, USA",41.9139808,-88.3128183
+Dominican Republic,19.0974031,-70.3028026
+"Lincoln, Lincolnshire, England, UK",53.2293545,-0.5404819
+"Woodstock, Oxfordshire, England, UK",51.856462,-1.347822
+"Kalkara, Malta",35.8898771,14.5290867
+"Merzuga desert, Morocco",31.1728205,-7.3362482
+"Peperharow Park, Hankley Common, Surrey, UK",N/A,N/A
+"Vancouver, British Columbia, Canada",49.2608724,-123.113952
+"400 National Way, Simi Valley, California, USA",34.2677404,-118.7538071
+"Font's Point, Anza-Borrego State Park, California, USA",33.187552,-116.316199
+"San Fernando Majers Coin Laundry - 260 S Meyer St, San Fernando, California, USA",34.289497,-118.4493
+"East 7th Street and Mateo Street, Los Angeles, California, USA",34.0536909,-118.242766
+"Simi Valley, California, USA",34.2677404,-118.7538071
+"San Fernando, California, USA",34.28497,-118.437652
+"Elysian Park, Los Angeles, California, USA",34.08289815,-118.23441344019174
+"The Los Angeles Theatre, 615 S. Broadway, Los Angeles, California, USA",34.046343,-118.252547
+"Alley between 6th/S Broadway and 6th/Spring St, Downtown Los Angeles, California, USA",34.043974,-118.25787
+"Saint Vibiana Cathedral - 114 East 2nd Street, Los Angeles, California, USA",34.050562,-118.244127
+"Altivole, Treviso, Italy",45.7540029,11.9553621
+"Ouarzazate, Morocco",30.920193,-6.910923
+Malta,41.9292207,-88.8623138
+"Bourne Wood, Farnham, Surrey, England, UK",51.192222349999994,-0.7752955707168234
+"Val d'Orcia, Siena, Tuscany, Italy",42.94484095,11.718749450542937
+"Alabama Hills, Lone Pine, California, USA",36.5677117,-118.0898097
+"Ait Benhaddou, Morocco",31.0451122,-7.1310323
+"Atlas Corporation Studios, Ouarzazate, Morocco",30.920193,-6.910923
+"Shepperton Studios, Studios Road, Shepperton, Surrey, England, UK",54.9701105,-1.5806187
+Morocco,31.1728205,-7.3362482
+"Pienza, Siena, Tuscany, Italy",43.0765485,11.6789076
+Italy,42.6384261,12.674297
+"Wellington, New Zealand",-41.2887953,174.7772114
+"Hinuera Valley, Matamata, Waikato, New Zealand",-37.8095635,175.7732759
+"Kaitoke Regional Park, Wellington Region, New Zealand",-41.067955,175.1971239
+"Queenstown, Otago, New Zealand",-45.0321923,168.661
+"Fernside, Featherston, Wairarapa, New Zealand",-41.0885537,175.3505731
+"Milford Sound, Fiordland National Park, Southland, New Zealand",-45.1988383,167.8223691
+"Port Waikato, Waikato, New Zealand",-37.3913264,174.717334
+"Rangipo Desert, Waiouru, Tongariro National Park, Central Plateau, New Zealand",-39.464289699999995,175.67310233566945
+"Rangitikei River, Manawatu-Wanganui, New Zealand",-39.7665195,175.8152587
+"Lake Wakatipu, Queenstown, Otago, New Zealand",-45.08880415,168.52111077909876
+"Tongariro National Park, Central Plateau, New Zealand",-39.464289699999995,175.67310233566945
+"Tarras, Wanaka, Otago, New Zealand",-44.6941691,169.1364637
+"Canterbury, New Zealand",-43.49417615,171.8098447584145
+"Poet's Corner, Upper Hutt, Wellington, New Zealand",-41.1240674,175.0699589
+"South Island, New Zealand",-36.72819,174.94019
+"Harcourt Park, Upper Hutt, Wellington, New Zealand",-41.10165085,175.09427325890724
+"Upper Hutt, Wellington, New Zealand",-41.1240674,175.0699589
+"Camperdown Studios, Camperdown Road, Miramar, Wellington, New Zealand",-41.306479,174.823436
+"Mavora Lakes, Southland, New Zealand",-45.295239,168.175019
+"Twizel, Canterbury, New Zealand",-44.257483,170.0994145
+"Arrowtown Recreational Reserve, Arrowtown, Otago, New Zealand",-44.9405627,168.8350761
+"Te Anau, Southland District, Southland, New Zealand",-45.41449,167.717489
+"Paradise, Glenorchy, Otago, New Zealand",-44.8232298,168.3985849
+"Lake Alta, The Remarkables, Nelson, South Island, New Zealand",N/A,N/A
+"Closeburn, Southern Lakes, South Island, New Zealand",-43,171
+"Abel Tasman National Park, South Island, Tasman Region, New Zealand",-40.91222,172.97012
+"Otaki Gorge Road, Kapiti Coast District, North Island, New Zealand",-40.7864889,175.1624474
+"Takaka Hill, Nelson, South Island, New Zealand",-41.2710849,173.2836756
+"Kepler Mire, Te Anau, South Island, New Zealand",-45.44021,167.68599
+"Mount Owen, Tasman district, Nelson, South Island, New Zealand",N/A,N/A
+"Fort Dorset, Miramar, Wellington, New Zealand",-41.3289876,174.8360946
+"Hutt Valley, Wellington, New Zealand",-41.1485427,174.9919508
+"Whakapapa Skifield, Mount Ruapehu, Tongariro National Park, New Zealand",N/A,N/A
+"Keeling Farm, Manakau, Horowhenua District, North Island, New Zealand",-40.7149003,175.2165249
+"Waitarere Forest, Horowhenua District, North Island, New Zealand",-39,176
+"Mount Olympus, Nelson, South Island, New Zealand",-41.2710849,173.2836756
+"Upper Waiau River, Fiordland National Park, South Island, New Zealand",-43,171
+"Matamata, Waikato, New Zealand",-37.8095635,175.7732759
+"Waikato, New Zealand",-37.77922725,175.2010323246593
+"Glenorchy, Otago, New Zealand",-44.8495067,168.3900502
+"Arrowtown, Otago, New Zealand",-44.9405627,168.8350761
+"Wanaka, Otago, New Zealand",-44.6941691,169.1364637
+"Otago, New Zealand",-45.39750525,170.1778918093833
+"Manawatu-Wanganui, New Zealand",-39.6407734,175.57135568879124
+"Fiordland National Park, South Island, New Zealand",-43,171
+"Southland District, Southland, New Zealand",-45.46531525,168.1524987759947
+"Southland, New Zealand",-45.92542665,167.60684826776085
+New Zealand,-41.5000831,172.8344077
+"Fortress Mountain, Kananaskis Country, Alberta, Canada",50.819333900000004,-115.20942891171117
+"Tangier, Morocco",35.7774341,-5.8032309
+"Shizuoka, Japan",34.9332488,138.0955398
+"Tokyo, Japan",35.736231,139.548956
+"Alberta, Canada",55.001251,-115.002136
+"Da Stuzzi Delicatessen, 6 Rue César Franck, Paris 15, France",48.658188,6.180564
+"Kananaskis Village, Kananaskis Country, Alberta, Canada",50.91566,-115.14373
+"Pont de Bir-Hakeim, Paris, France",48.8549055,2.2884924
+"Bedford, Bedfordshire, England, UK",52.1363806,-0.4675041
+"Spring Street, Downtown, Los Angeles, California, USA",34.0577952,-118.2399411
+"Cardington Airship Hangars, Bedfordshire, England, UK",52.1248304,-0.4416472
+"University College London, Bloomsbury, London, England, UK",51.52420305,-0.13300072425929543
+"Commodore Schuyler F. Heim Bridge, Port of Los Angeles, Los Angeles, California, USA",33.765952,-118.239536
+"Farnborough Airfield, Hampshire, England, UK",51.30072025,-0.7492597936325802
+"Rancho Palos Verdes, California, USA",33.7483311,-118.3707683
+"Rue Bouchut, Paris 15, Paris, France",48.8306258,2.3174534434015484
+"John Ferraro Building, 111 North Hope Street, Los Angeles, California, USA",34.058127999999996,-118.24952473234083
+"Leo Carrillo State Beach - 35000 W. Pacific Coast Highway, Malibu, California, USA",N/A,N/A
+"Stage 16, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+"Bedfordshire, England, UK",52.064003400000004,-0.41111375560310925
+"Pasadena, California, USA",34.1476507,-118.1441551
+"1240 S Hope St, Los Angeles, California, USA",34.03994,-118.265
+"Falls Lake, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"453 S Spring St, Los Angeles, California, USA",34.04778,-118.24948
+"Malibu, California, USA",34.035591,-118.689423
+"Los Angeles Department of Water and Power -111 N Hope St Los Angeles, California, USA",34.058127999999996,-118.24952473234083
+"Paris 15, Paris, France",48.8366762,2.2960133
+France,46.603354,1.8883335
+"Ark Mori Building - 1-12-32, Akasaka, Minato, Tokyo, Japan",35.676333,139.7374933212114
+"Cuzco, Peru",-13.5170887,-71.9785356
+"Dorchester Square, 2903 Peel St, Montreal, Quebec, Canada",N/A,N/A
+"2100 Fort St, Montreal, Quebec, Canada",45.5031824,-73.5698065
+"Sun Life Building, 1155 rue Metcalfe, Montreal, Quebec, Canada",45.5001129,-73.5706669
+"Tarapoto, Peru",-6.4877198,-76.3598708
+"Mels 2-3 / Technoparc, 1777 Carrie-Derick, Montreal, Quebec, Canada",45.4769436,-73.5427146
+"1 Place Ville Marie, Montreal, Quebec, Canada",45.501647,-73.568622
+"Albuquerque, New Mexico, USA",35.128683,-106.579128
+"Stone Street Studios, Wellington, New Zealand",-41.31771955,174.81302385706002
+"MBS Media Campus - 1600 Rosecrans Avenue, Manhattan Beach, California, USA",33.89868975,-118.38373379038384
+"Manhattan Beach, California, USA",33.8915985,-118.3951241
+"Glenfinnan Viaduct, Fort William, Highland, Scotland, UK",56.8178285,-5.110974
+"Steall Falls, Glen Nevis, Highland, Scotland, UK",56.7702419,-4.9798298
+"New College, Holywell Street, Oxford, Oxfordshire, England, UK",51.754742449999995,-1.252241620594331
+"Ashridge Park, Little Gaddesden, Hertfordshire, England, UK",50.458853700000006,-4.69747410141758
+"Eastbourne, East Sussex, England, UK",50.7664372,0.2781546
+"Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"Virginia Water, Surrey, England, UK",51.4033624,-0.5661711
+"J Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"Backlot, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Tropea, Italy",38.675379,15.894792
+"Calabria, Italy",39.0565974,16.5249864
+"New Jersey, New Jersey, USA",40.0155412,-74.8280828
+"Longcross Studios, Chobham Lane, Longcross, Surrey, England, UK",51.3831692,-0.5882576
+Tyrrhenian Sea,39.9999743,11.9999826
+"Seoul, South Korea",37.5666791,126.9782914
+"Görlitz, Saxony, Germany",51.1563185,14.991018
+"Brasserie La Renaissance, 112 rue Championnet, Paris 18, Paris, France",48.895825,2.33973
+"Studio Babelsberg, Potsdam, Brandenburg, Germany",52.381929650000004,13.113676759028799
+"Rüdersdorf, Brandenburg, Germany",52.471293,13.784527
+"Bad Schandau, Saxony, Germany",50.918091,14.1534018
+"Elbe Sandstone Mountains, Saxony, Germany",50.9295798,13.4585052
+"Fort Hahneberg, Berlin, Germany",52.521930600000005,13.137729308340758
+"Nauen, Brandenburg, Germany",52.6061065,12.8772599
+"Sebnitz, Saxony, Germany",50.97098,14.2727203
+"Babelsberg, Potsdam, Brandenburg, Germany",52.3922047,13.108012731196634
+"Krampnitz, Brandenburg, Germany",52.46174,13.04438
+"Marlene-Dietrich-Halle, Studio Babelsberg, Potsdam, Brandenburg, Germany",52.38710845,13.119691170567224
+"Shelby, North Carolina, USA",35.2923513,-81.5356463
+"Pisgah National Forest, North Carolina, USA",35.25428,-82.70012
+"Asheville, North Carolina, USA",35.595076,-82.5528478
+"Concord, North Carolina, USA",35.4094178,-80.5800049
+"Charlotte, North Carolina, USA",35.2272086,-80.8430827
+"Hildebran, North Carolina, USA",35.715167,-81.422408
+"Knight Theatre, Charlotte, North Carolina, USA",35.22490315,-80.84787164862959
+"North Fork Reservoir, North Carolina, USA",36.16256,-78.941032
+"Black Mountain, North Carolina, USA",35.6176544,-82.3205791
+"DuPont State Forest, North Carolina, USA",35.19804070000001,-82.6063811446106
+"Barnardsville, North Carolina, USA",35.77761,-82.45485
+"Bridal Veil Falls, DuPont State Forest, North Carolina, USA",35.0718733,-83.2288784
+"Cedar Mountain, North Carolina, USA",35.1434499,-82.6429035
+"North Carolina, USA",35.6729639,-79.0392919
+"Triple Falls, DuPont State Forest, North Carolina, USA",35.1984101,-82.6168754
+"Henry River Mill Village, North Carolina, USA",35.6958429,-81.4288616
+"Charlotte Convention Center - 501 S College Street, Charlotte, North Carolina, USA",35.2229594,-80.8461422
+"Loarre, Huesca, Aragón, Spain",42.3140366,-0.625272
+"Sevilla, Andalucía, Spain",37.3886303,-5.9953403
+Spain,39.3260685,-4.8379791
+"Alcázar of Sevilla, Sevilla, Spain",37.383210500000004,-5.990183515548227
+"Palma del Río, Córdoba, Andalucía, Spain",37.6949622,-5.2804262
+"Ávila, Castilla y León, Spain",40.656478,-4.7002172
+"Segovia, Castilla y León, Spain",42.574094,-5.0107296
+"Casa de Pilatos, Plaza de Pilatos, Sevilla, Andalucía, Spain",37.3902394,-5.987249062427177
+"Castillo de Loarre, Huesca, Aragon, Spain",42.325516,-0.6125628588892831
+"Old Royal Naval College, King William Walk, Greenwich, London, Greater London, England, UK",51.4796264,-0.0068237
+"Englefield Estate, Englefield Road, Theale, Reading, Berkshire, England, UK",51.542568700000004,-0.07961724872971652
+"Pret A Manger, 27-28 Great Marlborough Street, Soho, Westminster, Greater London, England, UK",51.5138453,-0.1407526
+"Wheat Wharf, 27 Shad Thames, Bermondsey, London, Greater London, England, UK",51.5028774,-0.07255285000000852
+"Westminster, Greater London, England, UK",51.4973206,-0.137149
+"Woburn Walk, Duke's Road, Bloomsbury, London, England, UK",51.5271092,-0.1291665
+"Great Marlborough Street, Soho, Westminster, Greater London, England, UK",51.5138453,-0.1407526
+"Soho, Westminster, Greater London, England, UK",51.5156623,-0.1322115
+"Theale, Reading, Berkshire, England, UK",51.4414691,-1.0796008066123808
+"27 Shad Thames, Bermondsey, London, Greater London, England, UK",51.5028774,-0.07255285000000852
+"Shad Thames, Bermondsey, London, Greater London, England, UK",51.5022066,-0.0720775
+"Bermondsey, London, Greater London, England, UK",51.4970125,-0.063268
+"King William Walk, Greenwich, London, Greater London, England, UK",51.4796264,-0.0068237
+"Greenwich, London, Greater London, England, UK",51.4781086,-0.0154152
+"Carlton House Terrace, St. James's, London, England, UK",51.5063357,-0.1319233
+"Halton House, Halton, Wendover, Buckinghamshire, England, UK",53.310085,-2.693755
+"Portobello Road, Notting Hill, London, England, UK",51.5164653,-0.2054244
+"Athenaeum Club, Pall Mall, St. James's, London, England, UK",51.50678365,-0.13275411879751942
+"Adelphi Building, John Adam Street, Strand, London, England, UK",51.509004,-0.121966
+"Waterloo Bridge, River Thames, London, England, UK",51.4493821,-0.3875796
+"Stone Buildings, Lincolns Inn, London, England, UK",51.517458,-0.113728
+"27-28 Great Marlborough Street, Soho, Westminster, Greater London, England, UK",51.5138453,-0.1407526
+"London, Greater London, England, UK",51.5073359,-0.12765
+"Tower wharf, London, England, UK",51.5073348,-0.0772469
+"Chief Goodstoney Rodeo Centre, AB-1A, Canmore, AB T0L 1N0, Canada",51.13638497777778,-114.92242092222223
+"Adrspach National Park, Trutnov, Czech Republic",50.5608851,15.9130498
+"Dunajec River Valley, Malopolskie, Poland",49.790952,20.3793521
+"Flock Hill, Canterbury, New Zealand",-43.1783164,171.7477948
+"Jezioro Siemianowskie, Podlaskie, Poland",52.93429495,23.81401281124556
+"Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA",34.140506,-118.296536
+"Tarnów, Malopolskie, Poland",50.025988299999995,20.96405842696229
+"Kentwell Hall, Long Melford, Suffolk, England, UK",52.0983652,0.7187206630442042
+"Elephant Rocks, Tokarahi, Otago, New Zealand",-44.9615044,170.6450546
+"Hillsborough, Auckland, New Zealand",-36.9221753,174.7532908
+"Highley Station, Severn Valley Railway, Shropshire, England, UK",52.5337041,-2.4214042
+"Prague, Czech Republic",50.0874654,14.4212535
+"Barrandov Studios, Prague, Czech Republic",50.0874654,14.4212535
+"Tatra Mountains, Malopolskie, Poland",49.790952,20.3793521
+"Christchurch, Canterbury, New Zealand",-43.530955,172.6366455
+"Henderson Valley Studios, Hickory Avenue, Henderson, Auckland, New Zealand",-36.885225500000004,174.6298983610195
+"Hobsonville Aerodrome, Hobsonville, Auckland, New Zealand",-36.799239,174.6473532
+"Homebush, Darfield, Canterbury, New Zealand",-43.4716569,172.1652266
+"Monte Cecilia House, Hillsborough Road, Hillsborough, Auckland, New Zealand",-36.929531,174.730317
+"Glacier National Park, Montana, USA",48.50274,-113.9854
+"Oamaru, Otago, New Zealand",-45.0997681,170.9684232
+"Purakaunui Bay, Otago, New Zealand",-46.5447974,169.6115566
+"Freshwater West Beach, Castlemartin, Pembroke, Pembrokeshire, Wales, UK",N/A,N/A
+"Hatfield House, Melon Ground, Hatfield Park, Hatfield, Hertfordshire, England, UK",N/A,N/A
+"St Pancras International Railway Station, Euston Road, St Pancras, London, Greater London, England, UK",51.5307482,-0.1258306
+"Swinley Forest, Bracknell, Berkshire, England, UK",51.406692,-0.75454
+"D Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.53642,-0.5179
+"Albert R. Broccoli 007 Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.5524651,-0.5321619024569935
+"Reynisfjara, Iceland",63.4044262,-19.058636107516655
+"Gan, Laamu Atoll, Maldives",1.9240013999999999,73.55031562555652
+"Canary Wharf Underground Railway Station, Heron Quays Road, Canary Wharf, Isle of Dogs, London, Greater London, England, UK",N/A,N/A
+"Bovingdon Airfield, Chesham Road, Bovingdon, Hemel Hempstead, Hertfordshire, UK",N/A,N/A
+"Shed 2, Cardington Airship Hangars, Bedfordshire, England, UK",52.1248304,-0.4416472
+"Black Hangar Studios, Lasham Airfield, Alton, Hampshire, England, UK",51.167137,-0.937022
+"E Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.53642,-0.5179
+"Iver Heath, Iver, Buckinghamshire, England, UK",51.54061725,-0.5204926906050409
+"Buckinghamshire, England, UK",51.840894,-0.8998073587480795
+"Alton, Hampshire, England, UK",51.167137,-0.937022
+"Hampshire, England, UK",51.04483545,-1.2434093597173146
+"Laamu Atoll, Maldives",1.95328225,73.40034650846036
+"Bovingdon Airfield Studios, Bovingdon Airfield, Chesham Road, Bovingdon, Hemel Hempstead, Hertfordshire, UK",N/A,N/A
+Maldives,3.7203503,73.2244152
+"St. Helens, Oregon, USA",45.854994,-122.814545
+"Scappoose, Oregon, USA",45.7572997,-122.8743589
+"33244 SW Sequoia Street, Scappoose, Oregon, USA",45.746308,-122.883518
+"Portland, Oregon, USA",45.5202471,-122.674194
+"Beaverton, Oregon, USA",45.4871723,-122.80378
+"3814 SE Martins Street, Portland, Oregon, USA",45.478226250000006,-122.62327829984537
+"Whittier High School - 12417 E. Philadelphia Street, Whittier, California, USA",33.979822,-118.04404
+"Walt Disney's Golden Oak Ranch - 19802 Placerita Canyon Road, Newhall, California, USA",34.3821339,-118.5117856
+"Puente Hills Mall - 1600 Azusa Avenue, City of Industry, California, USA",33.993549,-117.930595
+"1711 Bushnell Avenue, South Pasadena, California, USA",34.10618125,-118.14155765061811
+"1727 Bushnell Avenue, South Pasadena, California, USA",34.105706,-118.14152424760314
+"Gamble House - 4 Westmoreland Place, Pasadena, California, USA",34.151704,-118.160786
+"Hollywood United Methodist Church - 6817 Franklin Avenue, Hollywood, Los Angeles, California, USA",34.104268,-118.339035
+"9303 Roslyndale Avenue, Los Angeles, California, USA",34.238987,-118.43333
+"1809 Bushnell Avenue, South Pasadena, California, USA",34.1052975,-118.14153495471311
+"Courthouse Square, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"RR Blacker House - 1177 Hillcrest Avenue, Oak Knoll, Pasadena, California, USA",34.126971,-118.133554
+"535 North Victory Boulevard, Burbank, California, USA",34.179827,-118.319963
+"McCambridge Recreation Center, 1515 N. Glenoaks Blvd., Burbank, California, USA",34.192096,-118.320878
+"Kagel Canyon Street & Sandusky Avenue, Arleta, California, USA",34.2816959,-118.3790431
+"Chino, California, USA",34.0133561,-117.690075
+"Burbank Community Center, Burbank, California, USA",34.1812089,-118.307201
+"Stage 12, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"Stage 23, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"Santa Clarita, California, USA",34.4127963,-118.5538088
+"Glenfinnan, Highland, Scotland, UK",56.8710714,-5.446437
+"Glen Coe, Highland, Scotland, UK",56.6669243,-5.0228812
+"Loch Shiel, Highland, Scotland, UK",57.2089633,-5.405715248744751
+"Green Lanes, Palmers Green, London, England, UK",51.6250616,-0.1004196
+"St Paul's Cathedral, St Paul's Churchyard, City of London, England, UK",51.5130352,-0.0974829
+"8 Stoney Street, London, Greater London, England, UK",51.50529685,-0.0912428753968603
+"Dowding Way, Watford, Hertfordshire, England, UK",52.225180800000004,0.11559565000000392
+"Wistman's Wood, Dartmoor, England, UK",50.577939150000006,-3.9612094273141425
+"D Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"A Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"H Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"City of London, England, UK",51.5156177,-0.0919983
+"41 Royce Grove, Watford, Hertfordshire, England, UK",51.6553875,-0.3957425
+"Namib Desert, Namibia",-24.115903,15.904147
+"Cape Town Film Studios, Cape Town, Western Cape, South Africa",-34.0315617,18.719156772105897
+"Swakopmund, Erongo, Namibia",-22.6767841,14.5313988
+"Sydney, New South Wales, Australia",-33.8698439,151.2082848
+"Penrith, New South Wales, Australia",-33.74779624999999,150.71478824217297
+"Potts Hill, Sydney, New South Wales, Australia",-33.8922191,151.0329222
+"Disney Studios, Moore Park, Sydney, New South Wales, Australia",-33.890960899999996,151.22750517838074
+"Cannon Beach, Oregon, USA",45.8900275,-123.9618623
+"Astoria, Oregon, USA",46.1882007,-123.8319802
+"368 38th Street, Astoria, Oregon, USA",46.192945934707915,-123.79978634936104
+"John Warren Field - 677 18th Street, Astoria, Oregon, USA",46.186583,-123.822988
+"Goat Rock State Beach, Jenner, California, USA",38.4496365,-123.1155588
+"Lower Columbia Bowl - 826 Marine Drive, Astoria, Oregon, USA",46.190003,-123.834249
+"Gower Street, Cannon Beach, Clatsop, Oregon, USA",45.8900275,-123.9618623
+"304 38th Street, Astoria, Oregon, USA",46.19344105528352,-123.79973708261544
+"Flavel House Museum - 441 8th Street, Astoria, Oregon, USA",46.1881154,-123.83514164555729
+"Astoria Coffee Company - 304 37th Street, Astoria, Oregon, USA",46.193354,-123.801131
+"East Mooring Basin Boat Ramp, Astoria, Oregon, USA",46.1882007,-123.8319802
+"32 Skyline Avenue, Astoria, Oregon, USA",46.185859,-123.84253
+"4669 Crystal Springs Dr, Los Angeles, California, USA",34.13243561111111,-118.28037611111111
+"Stage 15, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+"Ecola State Park, Highway 101, Cannon Beach, Oregon, USA",45.875697,-123.95683
+"Clatsop County Jail - 732 Duane Street, Astoria, Oregon, USA",46.18854385,-123.8354815007776
+"Stage 12, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+"Backlot, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+"Stage 19, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+"Stage 19A, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+"Stage 28A, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+"Oregon, USA",43.9792797,-120.737257
+"Warner Brothers Burbank Studios 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+"Manhattan, New York City, New York, USA",40.777048,-73.967596
+"Queens, New York CIty, New York, USA",40.718804,-73.805154
+"Brooklyn, New York City, New York, USA",40.6526006,-73.9497211
+"Trilith Studios - 461 Sandy Creek Road, Fayetteville, Georgia, USA",33.474626,-84.511576
+"Alexander Hamilton Bridge, New York City, New York, USA",40.8452064,-73.92732009201943
+"Franklin K. Lane High School - 999 Jamaica Avenue, Brooklyn, New York City, New York, USA",40.692633,-73.868909
+"Vacaville, California, USA",38.3565773,-121.9877444
+"West 12th Street, Manhattan, New York City, New York, USA",40.7359773,-73.9976754
+"Queensboro Bridge, Manhattan, New York City, New York, USA",40.75573085,-73.95188400365261
+"Worcester, Massachusetts, USA",42.2625621,-71.8018877
+"Fan Pier Park, Boston, Massachusetts, USA",42.354657599999996,-71.04717827208005
+"Revere, Massachusetts, USA",42.4084302,-71.0119948
+"Pittsburgh, Pennsylvania, USA",40.4416941,-79.9900861
+"Weymouth, Massachusetts, USA",42.2212188,-70.9391625
+"74 Concord St., Framingham, Massachusetts, USA",42.278171,-71.417169
+"Post Office Square, Boston, Massachusetts, USA",42.3575068,-71.0563378
+"Revere Beach, Revere, Massachusetts, USA",42.414621,-70.990548
+"606 Congress St, Boston, Massachusetts, USA",42.34796,-71.039514
+"Liberty Square, Boston, Massachusetts, USA",42.3579962,-71.055333
+"Boston, Massachusetts, USA",42.3554334,-71.060511
+"Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA",34.083634,-118.32191
+"Framingham, Massachusetts, USA",42.2773177,-71.4165905
+"Massachusetts, USA",42.3788774,-72.032366
+"Pennsylvania, USA",40.9699889,-77.7278831
+"Hollywood, Los Angeles, California, USA",34.0980031,-118.329523
+"Cliffs of Moher, County Clare, Ireland",52.9595033,-9.4441796
+"Haddon Hall, Bakewell, Derbyshire, England, UK",53.1938185,-1.6495390704130992
+"Baron's Hall, Penshurst Place, Penshurst, Kent, England, UK",51.1746714,0.18368291891430094
+"Hever Castle, Hever, Kent, England, UK",51.1869092,0.11373480835010619
+"Cave Dale, Peak District National Park, Derbyshire, England, UK",53.35,-1.83333
+"Burnham Beeches, Buckinghamshire, England, UK",51.5565286,-0.6327670695416168
+"Lathkill Dale, Derbyshire, England, UK",53.19217405,-1.6977598123553852
+"Robin Hood's Stride, Birchover, Derbyshire, England, UK",53.1570297,-1.6658699
+"Carl Wark, Peak District National Park, Yorkshire, England, UK",54.26667,-2.08333
+"Bradley Rocks, Birchover, Derbyshire, England, UK",53.1559941,-1.6444649
+"C Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"L Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"M Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"Peak District National Park, Derbyshire, England, UK",53.315827350000006,-1.7270339677790583
+"Penshurst Place, Penshurst, Kent, England, UK",51.1746714,0.18368291891430094
+"Shepperton, Surrey, England, UK",51.405698,-0.44224
+"Surrey, England, UK",51.2715316,-0.3414523511290909
+"Penshurst, Kent, England, UK",51.1612732,0.17662674124623903
+"Derbyshire, England, UK",53.1185033,-1.5566179305872214
+"Hever, Kent, England, UK",51.19346535,0.11045206572088995
+"Kent, England, UK",51.2474823,0.7105077
+"Samana, Dominican Republic",19.2036865,-69.3389611
+"Wallilabou Bay, St Vincent and the Grenadines",13.24826,-61.27298
+"Bequia, St Vincent and the Grenadines",12.59727015,-61.417773249999996
+"Kingstown, St Vincent, St Vincent and the Grenadines",N/A,N/A
+Dominica,19.0974031,-70.3028026
+"Mexican Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"Stage 2, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA",34.156874,-118.325027
+"Marineland of the Pacific - 6610 Palos Verdes Drive South, Rancho Palos Verdes, California, USA",33.739483,-118.400278
+"Little Europe, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"Mediterranean Square, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA",34.156874,-118.325027
+"Saunton Sands, Devon, England, UK",51.09189955,-4.227135887328566
+"Hawaii, USA",19.593801499999998,-155.42837009716908
+"St Abbs, Eyemouth, Scottish Borders, Scotland, UK",55.8722469,-2.0893924
+"Trilith Studios, 461 Sandy Creek Road, Fayetteville, Georgia, USA",33.474626,-84.511576
+Japan,36.5748441,139.2394179
+"SANY America, 318 Cooper Circle, Peachtree City, Georgia, USA",33.3520935,-84.557443
+"Edwards AFB, California, USA",34.912822,-117.948532
+"The Proscenium, 1170 Peachtree Street NE, Atlanta, Georgia, USA",33.78631955,-84.38368746710526
+"Facing MLK Jr Drive., 100 Broad St SW, Atlanta, Georgia, USA",33.751784,-84.393039
+"Alexandra and Ainsworth Estate, Rowley Way, Camden, London, England, UK",51.539959100000004,-0.1809703443840603
+"Sharpthorne tunnel, Bluebell Railway, West Sussex, England, UK",51.074018,-0.044811
+"Wrotham Park, Barnet, Hertfordshire, England, UK",51.6747389,-0.198313236185569
+"Deepcut church, Deepcut, Surrey, England, UK",51.3061708,-0.7059665
+"6 Black Prince Rd, Kennington, London, England, UK",51.4896428,-0.11210461082443676
+"11 Savile Row, London, England, UK",51.5109328,-0.1400346140820593
+"11 Stanhope Mews South, Kensington, London, England, UK",51.4933001,-0.1804090306638232
+"Holborn Police Station, London, England, UK",51.52079075,-0.11749458317579028
+"Rowley Way, Camden, London, England, UK",51.5403041,-0.180501
+"Camden, London, England, UK",51.544596,-0.132316
+"F Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.53642,-0.5179
+"Port Adelaide, South Australia, Australia",-34.8342755,138.5123548
+"Adelaide, South Australia, Australia",-34.9281805,138.5999312
+"Far Northern South Australia, South Australia, Australia",-30.5343665,135.6301212
+"Coober Pedy, South Australia, Australia",-29.0133682,134.7536164
+"Mount Crawford, South Australia, Australia",-34.66667,138.95
+"Mount Lofty Ranges, South Australia, Australia",-35,138.7
+"Adelaide Studios, 226 Fullarton Road, Glenside, South Australia, Australia",-34.945198,138.628545
+"Adelaide Hills, South Australia, Australia",-34.90135105,138.82932020091445
+"Zwinger, Dresden, Saxony, Germany",51.053029550000005,13.734977530931122
+"Kraków, Malopolskie, Poland",50.1094444,21.1480556
+"Osterstein Castle, Zwickau, Saxony, Germany",50.72101965,12.49992126519431
+"Hainewalde, Saxony, Germany",50.9101231,14.7040523
+"Dresden, Saxony, Germany",51.0493286,13.7381437
+"Waldenburg, Saxony, Germany",50.8743975,12.6003812
+"Sächsische Schweiz, Saxony, Germany",50.91528135,14.140008624300318
+"Burg Kriebstein, Kriebstein, Saxony, Germany",51.04249315,13.017594030833333
+"Eagle Mountain Ln, Burney, California, USA",41.031917,-121.632939
+"McCloud River Railroad, McCloud, California, USA",34.022891,-117.562851
+"Gooseline Railroad, Cottage Grove, Oregon, USA",43.7974729,-123.058896
+"Cottage Grove, Oregon, USA",43.7974729,-123.058896
+"Yreka Western Railroad, Yreka, California, USA",41.72917,-122.641722
+"419 N Main St, Brownsville, Oregon, USA",44.394595,-122.984703
+"School Ave, Brownsville, Oregon, USA",44.3969168,-122.9824509
+"Veneta, Oregon, USA",44.046514,-123.353537
+"Row River Trail, Cottage Grove, Oregon, USA",43.7998245,-123.0469069
+"Eugene, Oregon, USA",44.0505054,-123.0950506
+"325 Fisher St, Brownsville, Oregon, USA",44.393925,-122.988399
+"Dusty CG Eagle Mountain Rd, Burney, California, USA",40.8823811,-121.66082
+"N Main St, Brownsville, Oregon, USA",44.3925422,-122.9844418
+"Franklin, Oregon, USA",44.1584023,-123.3077098
+"Brownsville, Oregon, USA",44.39242,-122.983126
+"Territorial Hwy & Franklin Rd, Junction City, Oregon, USA",44.3131157,-123.296782
+"Holloway Heights, Brownsville, Oregon, USA",44.395101,-122.986389
+"25850 Tidball Ln, Veneta, Oregon, USA",44.05022,-123.322039
+"1152 Linn Way, Brownsville, Oregon, USA",44.40180550013256,-122.990930262887
+"Baptist Cemetery, Brownsville, Oregon, USA",44.4196573,-123.0169321
+"Houston Road, Veneta, Oregon, USA",44.046514,-123.353537
+"Royal Ave. Eugene, Oregon, USA",44.0698948,-123.1560014
+"N Main St & Park Ave, Brownsville, Oregon, USA",34.8665219,-82.3922057
+"380 South San Rafael Avenue, Pasadena, California, USA",34.137285,-118.169594
+"Burney, California, USA",40.8823811,-121.66082
+"Junction City, Oregon, USA",44.2191935,-123.204785
+"McCloud, California, USA",41.2557119,-122.139448
+"Yreka, California, USA",41.72917,-122.641722
+"Tehachapi Pass, California, USA",35.1015454,-118.2828678
+"Manawaiopuna Falls, Hanapepe Valley, Kaua'i, Hawaii, USA",21.91633,-159.57951
+"Kualoa Ranch - 49560 Kamehameha Highway, Ka'a'awa, O'ahu, Hawaii, USA",N/A,N/A
+"Jurassic Kahili Ranch, Kilauea, Kaua'i, Hawaii, USA",22.213592,-159.398563
+"Blue Hole, Kaua'i, Hawaii, USA",22.0663404,-159.4828966
+"Red Rock Canyon State Park - Highway 14, Cantil, California, USA",35.2383,-118.056427
+"Olokele Valley, Kaua'i, Hawaii, USA",19.593801499999998,-155.42837009716908
+"Lawai, Kaua'i, Hawaii, USA",21.917797,-159.500293
+"Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"National Tropical Botanical Gardens, Allerton Garden on Kauai - Papalina Rd, Kalaheo, Kaua'i, Hawaii, USA",21.9108907,-159.5138283
+"Griffith Observatory, 2800 E Observatory Rd, Los Angeles, California, USA",34.11821875,-118.30029332196601
+"Stage 28, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"Stage 27, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",34.138586,-118.355735
+"Hoopii Falls, Kapaa, Kaua'i, Hawaii, USA",22.105297,-159.339049
+"Valley House Plantation Estate - 6191 Hauaala Rd, Kealia, Kaua'i, Hawaii, USA",N/A,N/A
+"Waikoko Forest Management Rd, Kaua'i, Hawaii, USA",19.593801499999998,-155.42837009716908
+"Jungle Set, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",34.148175,-118.338482
+"Oxford University, Oxford, Oxfordshire, England, UK",51.7583164,-1.2651448728790433
+"King's Cross Station, King's Cross, London, England, UK",51.5304561,-0.1232594
+"Lacock Abbey, Lacock, Wiltshire, England, UK",51.4148104,-2.116894635571449
+"Ealing Studios, Ealing, London, England, UK",51.50892995,-0.307743284849164
+"K Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Loch Eilt, Highland, Scotland, UK",56.880393,-5.592716
+"Fort William, Highland, Scotland, UK",56.8178285,-5.110974
+"Guanabara Bay, Rio de Janeiro, Rio de Janeiro, Brazil",-22.81690235,-43.127220112581526
+Brazil,-10.3333333,-53.2
+"Fort Macomb, New Orleans, Louisiana, USA",30.0648035,-89.80463109095354
+"Mangaratiba, Rio de Janeiro, Brazil",-22.9600193,-44.04111
+"Niterói, Rio de Janeiro, Brazil",-22.8884,-43.1147
+"Rio de Janeiro, Brazil",-22.9110137,-43.2093727
+"First Presbyterian Church of Hollywood - 1760 N. Gower Street, Hollywood, Los Angeles, California, USA",34.103151,-118.322219
+"Elmwood, Louisiana, USA",29.9565932,-90.1897975
+"Louisiana, USA",30.8703881,-92.007126
+"Tikal National Park, Guatemala",17.1910467,-89.61489111940308
+"Yuma, Arizona, USA",32.665135,-114.47603157249804
+"Sidi Driss Hotel, Matmata, Tunisia",33.5425816,9.967051160815116
+"Chott el Djerid, Nefta, Tunisia",33.8720687,7.880684
+"Ajim, Jerba, Tunisia",33.72638,10.75664
+"Sidi Bouhlel, Tozeur, Tunisia",34.0357781,8.280712508755723
+"Calakmul, Campeche, Mexico",18.1142902,-89.80105
+"Death Valley National Park, California, USA",36.7014631,-118.755997
+"Elstree Studios, Borehamwood, Hertfordshire, England, UK",51.6570349,-0.2674985120341028
+"Sidi Bouhel, Tunisia",36.1770871,9.1256499
+"Shed 1, Cardington Airship Hangars, Bedfordshire, England, UK",52.1248304,-0.4416472
+"Stage 1, Elstree Studios, Borehamwood, Hertfordshire, England, UK",51.6570349,-0.2674985120341028
+Tunisia,33.8439408,9.400138
+"Stage 7, Elstree Studios, Borehamwood, Hertfordshire, England, UK",51.6570349,-0.2674985120341028
+"Stage 8, Elstree Studios, Borehamwood, Hertfordshire, England, UK",51.6570349,-0.2674985120341028
+"Stage 2, Elstree Studios, Borehamwood, Hertfordshire, England, UK",51.6570349,-0.2674985120341028
+"Stage 6, Elstree Studios, Borehamwood, Hertfordshire, England, UK",51.6570349,-0.2674985120341028
+"Stage 4, Elstree Studios, Borehamwood, Hertfordshire, England, UK",51.6570349,-0.2674985120341028
+"Stage 3, Elstree Studios, Borehamwood, Hertfordshire, England, UK",51.6570349,-0.2674985120341028
+"Stage 9, Elstree Studios, Borehamwood, Hertfordshire, England, UK",51.6570349,-0.2674985120341028
+"Tataouine, Tunisia",31.7317009,9.770219749624271
+"Campeche, Mexico",19.330194,-89.94351380117641
+Guatemala,15.5855545,-90.345759
+Mexico,23.6585116,-102.0077097
+"Arizona, USA",34.395342,-111.763275
+"Atlanta, Georgia",33.7489924,-84.3902644
+"Tallulah Falls Lake, Georgia, USA",34.74375565,-83.40703028121663
+"Lincoln Book Tower, Ford's Theatre, Penn Quarter, Washington D.C, USA",38.896676299999996,-77.02564491513466
+"The Exorcist Steps, Georgetown, District Columbia, USA",38.9051994,-77.062785
+"Washington, District of Columbia, USA",38.8950368,-77.0365427
+"Mt. Potts Station, Erewhon, Canterbury, New Zealand",-43.5202003,170.8766639
+"Dry Creek Quarry, Wellington, New Zealand",-41.2887953,174.7772114
+"Deer Park Heights, Queenstown, Otago, New Zealand",-45.0391751,168.6978307
+"Mount Ruapehu, Tongariro National Park, Central Plateau, New Zealand",-39.464289699999995,175.67310233566945
+"Stone Street Studios, Stone Street, Miramar, Wellington, New Zealand",-41.317412,174.814569
+"Putangirua Pinnacles, Wairarapa region, North Island, New Zealand",-46.816484,168.238851
+"Central Plateau, New Zealand",-49.6889212,178.7740945
+"Fiordland National Park, Southland, New Zealand",-45.4237518,167.7189571
+"North Island, New Zealand",-38.00353045,175.95785260835657
+"Erewhon, Canterbury, New Zealand",-43.471225849999996,170.7695866093781
+"Pixar Animation Studios - 1200 Park Avenue, Emeryville, California, USA",37.832671399999995,-122.28369421339062
+"Dettifoss, Vatnajökull National Park, Iceland",64.6962739,-16.957721665731754
+"The Storr, Isle of Skye, Highland, Scotland, UK",57.5066357,-5.0038367
+"Rannoch Moor, Highland, Scotland, UK",57.5066357,-5.0038367
+"Hekla, Rangárvallasýsla, Iceland",63.91667,-20
+"Fort William, Glen Coe, Highland, Scotland, UK",56.8483618,-5.088585
+"Ciudad de la Luz, Alicante, Comunidad Valenciana, Spain",38.3436365,-0.4881708
+"Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada",43.6465663,-79.35106457413957
+"Scotland, UK",56.7861112,-4.1140518
+"Iver Heath, Buckinghamshire, England, UK",51.5343612,-0.5302492
+"Port Lands, Toronto, Ontario, Canada",43.6430648,-79.3506012
+"Ontario, Canada",50.000678,-86.000977
+Panama,8.559559,-81.1308434
+"Porto, Portugal",41.1494512,-8.6107884
+"Augusta, Georgia, USA",33.4709714,-81.9748429
+Portugal,39.6621648,-8.1353519
+"San Juan, Puerto Rico",18.46633,-66.10572
+"Water Street, Edgartown, Martha's Vineyard, Massachusetts, USA",41.4544782,-70.601231
+"Falmouth, Massachusetts, USA",41.5514979,-70.6147519
+"Dangerous Reef, South Australia, Australia",-30.5343665,135.6301212
+"Joseph Sylva State Beach, Martha's Vineyard, Massachusetts, USA",42.3788774,-72.032366
+"Southern Ocean, South Australia, Australia",-37.48613,140.01193
+"East Chop, Martha's Vineyard, Massachusetts, USA",42.3788774,-72.032366
+"Oak Bluffs, Martha's Vineyard, Massachusetts, USA",41.4536222,-70.5684337
+"Main Street, Edgartown, Martha's Vineyard, Massachusetts, USA",41.4553215,-70.6028345
+"South Water Street & Davis Lane, Edgartown, Massachusetts, USA",36.439027,-99.203528
+"Aquinnah, Martha's Vineyard, Massachusetts, USA",41.3437229,-70.8147523
+"American Legion Memorial Bridge, Martha's Vineyard, Massachusetts, USA",42.3788774,-72.032366
+"Edgartown, Martha's Vineyard, Massachusetts, USA",41.3894198,-70.5129682
+"Sengekontacket Pond, Martha's Vineyard, Massachusetts, USA",42.3788774,-72.032366
+"Santa Catalina Island, Channel Islands, California, USA",36.7014631,-118.755997
+"Menemsha, Martha's Vineyard, Massachusetts, USA",42.3788774,-72.032366
+"265 East Chop Drive, Vineyard Haven, Massachusetts, USA",41.4542914,-70.6038026
+"35 Aquinnah Circle, Aquinnah, Massachusetts, USA",41.3460907,-70.83549984569231
+"Far West Coast, South Australia, Australia",-30.5343665,135.6301212
+"Spencer Gulf, South Australia, Australia",-28.1765,139.79873
+"Martha's Vineyard, Massachusetts, USA",42.3788774,-72.032366
+"South Australia, Australia",-30.5343665,135.6301212
+Australia,-24.7761086,134.755
+"Bucharest, Romania",44.4361414,26.1027202
+Romania,45.9852129,24.6859225
+"Varna, Bulgaria",43.2073873,27.9166653
+"New Boyana Film Studios, Sofia, Bulgaria",42.6977028,23.3217359
+"Sofia Airport, Sofia, Bulgaria",42.6879666,23.4161349
+Bulgaria,42.6073975,25.4856617
+"Bebresh Viaduct, Vitinya Pass, Bulgaria",42.7815295,23.7996189
+"Military Academy Hospital, Sofia, Bulgaria",42.6977028,23.3217359
+"Vertigo Tower, Sofia, Bulgaria",42.65704335,23.286106881754854
+"Lipscani, Bucharest, Romania",44.4319356,26.1009058
+"University Square, Bucharest, Romania",44.4353423,26.1025347
+"Arcul de Triumf, Bucharest, Romania",44.467170100000004,26.07812345
+"Carpathian Mountains, Romania",47.0005707,25.5017192
+"Acton Lane Power Station, Acton Lane, Acton, London, England, UK",51.5027364,-0.2654421
+"Long Process Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.53642,-0.5179
+"S Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.53642,-0.5179
+"Kaua'i, Hawaii, USA",19.593801499999998,-155.42837009716908
+"Disney-MGM Studios - 351 South Studio Drive, Bay Lake, Florida, USA",28.3572521,-81.5606174711873
+"Corner of Via di Salone and Via delle Case Rosse, Salone Caves, Rome, Lazio, Italy",41.9150952,12.6360633
+"Anzio, Lazio, Italy",41.4471008,12.6285618
+"Canale Monterano, Rome, Lazio, Italy",42.136043,12.1030665
+"Durango, Mexico",24.022008,-104.654741
+"Frosinone, Lazio, Italy",41.6419807,13.3469287
+"Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA",34.016999,-118.403816
+"Stage 5, Cinecittà Studios, Cinecittà, Rome, Lazio, Italy",41.852529200000006,12.57815073332834
+"Cinecittà Studios, Cinecittà, Rome, Lazio, Italy",41.852529200000006,12.57815073332834
+"Arcinazzo Romano, Frosinone, Lazio, Italy",41.6419807,13.3469287
+"Fogliano, Latina, Lazio, Italy",41.3968641,12.9155836
+"Fort MacLeod, Alberta, Canada",49.7257719,-113.405385
+"Drumheller, Alberta, Canada",51.4662795,-112.7046642
+"Beiseker, Alberta, Canada",51.3852192,-113.5383076
+"Dorothy, Alberta, Canada",51.2809765,-112.3223963
+"Del Bonita, Alberta, Canada",49.03327,-112.80184
+"New York, USA",40.68295,-73.9708
+"Fire Station 23 - 225 E. 5th Street, Los Angeles, California, USA",34.04557647222222,-118.24698136111111
+"Cantil, California, USA",35.3088502,-117.9684031
+"Pompeii, Naples, Campania, Italy",40.8358846,14.2487679
+"Cinespace Film Studios, Toronto, Ontario, Canada",43.6300234,-79.52817571309554
+"Yaxha, Maya ruins, Guatemala",N/A,N/A
+Belize,16.8259793,-88.7600927
+Costa Rica,10.2735633,-84.0739102
+"Texas, USA",31.2638905,-98.5456116
+"Perth and Kinross, Scotland, UK",56.5,-3.75
+"Berkhamsted, Hertfordshire, England, UK",51.75514375,-0.5557681023902674
+"Tring, Hertfordshire, England, UK",51.7940357,-0.6609205
+"Three Mills Studios, Three Mill Lane, Bow, London, England, UK",51.5269713,-0.0106455
+"Three Mill Lane, Bow, London, England, UK",51.5269713,-0.0106455
+"Bow, London, England, UK",51.5309383,-0.0274853
+"Lone Pine, California, USA",36.583175999999995,-118.07833811447833
+"Cerritos, California, USA",33.871295,-118.055856
+"Indio, California, USA",33.7192808,-116.2188054
+"Stockholm, Sweden",59.3251172,18.0710935
+"Oslo, Norway",59.9133301,10.7389701
+"Manchester, England, UK",53.4794892,-2.2451148
+"Mexicali, Baja California, México",32.6405247,-115.474899
+"Inyo County, California, USA",36.5595325,-117.4074712
+"Djemaa el Fna, Marrakech, Morocco",31.6258306,-7.988919740137357
+"The Historic Dockyard Chatham, Chatham, Kent, England, UK",51.3729007,0.5503120576703684
+"Frensham Ponds, Farnham, Surrey, England, UK",51.2151749,-0.7984854
+"Dormant Volcano, Erfoud, Morocco",31.434992049999998,-4.232829342957164
+"Erfoud, Morocco",31.434992049999998,-4.232829342957164
+"Marrakech, Morocco",31.6258257,-7.9891608
+"Jebel Musa, Morocco",35.8989516,-5.4129554
+"Mentmore Towers, Mentmore, Buckinghamshire, England, UK",51.868305,-0.690493
+"Glen Canyon, Arizona, USA",36.926984,-111.453941
+"Royal Naval Base, Chatham, Kent, England, UK",51.5053505,-0.1290373
+"Chatham, Kent, England, UK",51.3729007,0.5503120576703684
+"Sidi Bouhlel, Bouhlel Sdada, Tunisia",N/A,N/A
+"Ksar Medenine, Medenine, Tunisia",33.2678102,10.1993777
+"Whippendell Wood, Watford, Hertfordshire, England, UK",51.66737435,-0.44204346173872366
+"Ksar Oueld Soltane, Tataouine, Tunisia",31.7317009,9.770219749624271
+"Oung Jmel, Nefta, Tunisia",33.8720687,7.880684
+"Ksar Hadada, Tataouine, Tunisia",33.1004153,10.3119203
+"MS2 Stage, Warner Bros. Studios Leavesden, Warner Drive, Leavesden, Watford, Hertfordshire, England, UK",51.8836882,0.5346038
+"Livermore, California, USA",37.6820583,-121.768053
+"Borehamwood, Hertfordshire, England, UK",51.6604863,-0.2706506
+"Leavesden, Hertfordshire, England, UK",51.6913926,-0.4144152
+"Watford, Hertfordshire, England, UK",51.6553875,-0.3957425
+"Hertfordshire, England, UK",51.840052299999996,-0.09785519224523963
+"Medenine, Tunisia",32.981998700000005,11.287025364730832
+"Bouhlel Sdada, Tunisia",33.8439408,9.400138
+"Nefta, Tunisia",33.8720687,7.880684
+"San Francisco Peaks, Arizona, USA",34.395342,-111.763275
+"Coconino National Forest, Arizona, USA",34.9455958,-111.43300181152304
+"Baton Rouge, Louisiana, USA",30.4494155,-91.1869659
+"J.W. Eaves Movie Ranch - 75 Rancho Alegre Road, Santa Fe, New Mexico, USA",35.482813,-106.083828
+"Ghost Ranch, Abiquiu, New Mexico, USA",36.3393494,-106.4690229329567
+"Abiquiu, New Mexico, USA",36.2070977,-106.318628
+"Galisteo, New Mexico, USA",35.3952637,-105.947079
+"Valles Caldera, New Mexico, USA",32.209648,-106.706777
+"Plaza Blanca, Abiquiu, New Mexico, USA",35.636542,-105.987815
+"Jackson, Louisiana, USA",30.8374,-91.21761
+"Santa Fe Studios, Santa Fe, New Mexico, USA",35.56834055,-106.04715995307225
+"Miller Mesa, Ridgway, Colorado, USA",38.1527685,-107.761726
+"Nottoway Plantation, White Castle, Louisiana, USA",30.1847827,-91.16707425413784
+"Aviemore, Highland, Scotland, UK",57.1937528,-3.8287496
+"Langvann, Oslo, Norway",60.0404283,10.724347919677415
+"Inverness, Highland, Scotland, UK",57.4790124,-4.225739
+"Kalsoy, Faroe Islands",62.24243,-6.66047
+"Harbour Street, Port Antonio, Portland, Jamaica",18.1768436,-76.4498536
+"Pall Mall, St James's, Westminster, Greater London, England, UK",51.5051438,-0.1377153
+"Isle of Wight, England, UK",50.6710482,-1.3327111133199459
+"Atlanterhavsveien, Møre og Romsdal, Norway",63.009982,7.432371
+"North Coast, Jamaica",18.1850507,-77.3947693
+"Gravina in Puglia, Bari, Apulia, Italy",40.819725,16.422779
+"Nittedal, Norway",60.08045425,10.856610881659574
+"Marina di Pisticci, Matera, Basilicata, Italy",40.2966412,16.7824438
+"Highlands, Scotland, UK",57.2490341,-2.2103049
+"Ardverikie Estate, Kinloch Laggan, Newtonmore, Highland, Scotland, UK",56.974626,-4.386000295682102
+"Ministry of Defence Military Training Area, Salisbury Plain, Wiltshire, England, UK",51.07414,-1.80584
+"Thames Riverbank, River Thames, London, Greater London, England, UK",51.4493821,-0.3875796
+"Acquedotto Madonna della Stella, Gravina in Puglia, Bari, Apulia, Italy",40.820071,16.413117
+"Whitehall, Westminster, Greater London, England, UK",51.502814,-0.126064
+"Trollanes, Faroe Islands",62.3612244,-6.7888073
+"Bari, Apulia, Italy",41.1257843,16.8620293
+"Cairngorms National Park, Scotland, UK",57.07564075,-3.613170846988315
+"Hammersmith Bridge, Hammersmith, London, Greater London, England, UK",51.4875595,-0.2310922
+"Sapri, Salerno, Campania, Italy",40.0750785,15.6297747
+"Via Muro, Matera, Basilicata, Italy",40.6657439,16.6116817
+"Piazza San Pietro Caveoso, Matera, Basilicata, Italy",40.6647426,16.6118988
+"Torre dei Crivi, Maratea, Potenza, Basilicata, Italy",39.9931029,15.723124
+"Langevann Lake, Nittedal, Akershus, Norway",60.1066403,10.8558607
+"Matera Cathedral, Piazza Duomo, Matera, Basilicata, Italy",40.6666707,16.6109261
+"Kinloch Laggan, Newtonmore, Highland, Scotland, UK",57.06911,-5.01431
+"Cala Tunnara, Maratea, Potenza, Basilicata, Italy",39.9931029,15.723124
+"Piazetta Pascoli, Matera, Basilicata, Italy",40.667029,16.6063265
+"RAF Brize Norton, Oxfordshire, England, UK",51.7684484,-1.572481839367076
+"Hakadal, Nittedal, Akershus, Norway",60.1066403,10.8558607
+"Church of Madonna della Vergini, Matera, Basilicata, Italy",40.667029,16.6063265
+"Stazione Ferroviaria di Sapri - Sapri, Salerno, Campania, Italy",40.0750785,15.6297747
+"Horse Guards Avenue, Westminster, Greater London, England, UK",51.5049871,-0.1254769
+"The Mall, St James's, Westminster, Greater London, England, UK",51.5042691,-0.1347305
+"Frenchman's Cove, Port Antonio, Portland, Jamaica",18.1763606,-76.4459288
+"Swinley Forest, Buttersteep Rise, Winkfield Row, Ascot, Berkshire, England, UK",N/A,N/A
+"Kingston South Quay Container Terminal, Kingston Port, Kingston, Jamaica",17.98414055,-76.82663712903489
+"Trollanes, Kalsoy Island, Faroe Islands",62.3612244,-6.7888073
+"Nittedal Forest, Nittedal, Akershus, Norway",60.1066403,10.8558607
+"Nordmøre, Møre og Romsdal, Norway",63.1249265,7.718275552884474
+"Via XX Settembre, Matera, Basilicata, Italy",40.6702462,16.6062655
+"Piazza Duomo, Matera, Basilicata, Italy",40.6666707,16.6109261
+"Greater London, England, UK",51.4893335,-0.14405508452768728
+"Rauma, Møre og Romsdal, Norway",62.44547455,7.688358647597401
+"Spiaggia Cent'Ammari, Maratea, Potenza, Basilicata, Italy",39.9931029,15.723124
+"Kingston Port, Kingston, Jamaica",17.98414055,-76.82663712903489
+"Rione Pianelle, Matera, Basilicata, Italy",40.6652778,16.6119456
+"Ponte Acquedotto, Gravina in Puglia, Bari, Apulia, Italy",40.819982,16.413719
+"Centaur Street, London, Greater London, England, UK",51.4978371,-0.1136503
+"Kallur Lighthouse, Kallur, Kalsoy, Faroe Islands",62.37043,-6.81007
+"Whitehall Court, Westminster, Greater London, England, UK",51.50543315,-0.12434214606594883
+"Ministry of Defence, Horse Guards Avenue, Westminster, Greater London, England, UK",51.50399655,-0.12485613044953955
+"Lower Mall, Hammersmith, London, Greater London, England, UK",51.4899832,-0.2321251
+"Windsor Great Park, Windsor, Berkshire, England, UK",51.46687,-0.61987
+"Piazza Vittorio Veneto, Sapri, Salerno, Campania, Italy",40.0773508,15.6273732
+"Via Tommaso Stigliani, Matera, Basilicata, Italy",40.6697855,16.6068424
+"Port Antonio Market, Port Antonio, Portland, Jamaica",18.1763606,-76.4459288
+"Piggy's Jerk Center, Harbour Street, Port Antonio, Portland, Jamaica",18.1768436,-76.4498536
+"Swinley Forest, Bracknell Forest, Berkshire, England, UK",51.37199615,-0.7298896004930319
+"Ken Jones Aerodrome, Saint Margarets Bay, Jamaica",N/A,N/A
+"42 Roupell Street, London, Greater London, England, UK",51.5042721,-0.1103253
+"Nittedal, Akershus, Norway",60.1066403,10.8558607
+"Highland, Scotland, UK",57.5066357,-5.0038367
+Jamaica,18.1850507,-77.3947693
+"Kingston, Jamaica",17.9712148,-76.7928128
+"Kingston Freeport Terminal, Kingston, Jamaica",17.9712148,-76.7928128
+"San San Beach, Port Antonio, Portland, Jamaica",18.1763606,-76.4459288
+"Carlton House Terrace, St James's, Westminster, Greater London, England, UK",51.5066481,-0.1306882
+"Salisbury Plain, Wiltshire, England, UK",51.07414,-1.80584
+"Kallur Lighthouse, Kallur, Kalsoy Island, Faroe Islands",62.37043,-6.81007
+"Spiaggia Nera, Maratea, Potenza, Basilicata, Italy",39.9718129,15.723034971673517
+"Buttersteep Rise, Winkfield Row, Ascot, Berkshire, England, UK",N/A,N/A
+"Allan Avenue, Port Antonio, Portland, Jamaica",18.1766951,-76.4451435
+"Boundbrook Wharf, Port Antonio, Portland, Jamaica",18.180185,-76.4567495
+"Senate House, University of London, Malet Street, Bloomsbury, London, Greater London, England, UK",51.52184485,-0.13021550670673807
+"Creag Meagaidh, Highlands, Scotland, UK",56.94289,-4.539378
+"HM Prison Belmarsh, Western Way, Thamesmead, London, Greater London, England, UK",51.6407748,-0.18807459999999354
+"Coco Walk, Port Antonio, Portland, Jamaica",18.1763606,-76.4459288
+"San San Bay, Port Antonio, Portland, Jamaica",18.1720159,-76.3917267
+"Spiaggia dell'Arcomagno, San Nicola Arcella, Cosenza, Calabria, Italy",39.85061,15.78978
+"Piazzetta Giovanni Pascoli, Matera, Basilicata, Italy",40.667029,16.6063265
+"Calata Domenico Ridola, Matera, Basilicata, Italy",40.663237,16.6106582
+"Kallur, Kalsoy Island, Faroe Islands",62.3717858,-6.8148001
+"RAF Brize Norton, Carterton, Oxfordshire, England, UK",51.7511351,-1.5793780079234687
+"Roupell Street, London, Greater London, England, UK",51.5049179,-0.1068926
+"MacMillan Hall, Senate House, University of London, Malet Street, Bloomsbury, London, Greater London, England, UK",N/A,N/A
+"University of London, Malet Street, Bloomsbury, London, Greater London, England, UK",51.52184485,-0.13021550670673807
+"Swinley Park, Swinley Forest, Bracknell Forest, Berkshire, England, UK",51.39607565,-0.7179790281202689
+"Blackfriars, City of London, England, UK",51.5115854,-0.1037671
+"Kingston Harbour, Kingston, Jamaica",17.964777249999997,-76.78442197544746
+"Surrey County, Jamaica",18.0584993,-76.58400686043703
+"Market Square, Port Antonio, Portland, Jamaica",18.1763606,-76.4459288
+"Williams Street, Port Antonio, Portland, Jamaica",18.1780423,-76.4513805
+"West Street, Port Antonio, Portland, Jamaica",18.1791916,-76.4593265
+"Horse Guards Parade, St James's Park, St James's, Westminster, Greater London, England, UK",51.5048979,-0.1310046
+"St James's, Westminster, Greater London, England, UK",51.5065751,-0.131725
+"San Nicola Arcella, Cosenza, Calabria, Italy",39.8481737,15.7949706
+"Via Fontana della Stella, Gravina in Puglia, Bari, Apulia, Italy",41.059993,16.928501
+"Lutvann, Oslo Municipality, Norway",N/A,N/A
+"Potenza, Basilicata, Italy",40.6384046,15.8022077
+"Rock Church of Our Lady Delle Vergini, Matera, Basilicata, Italy",40.667029,16.6063265
+"The Solent, England, UK",50.850812000000005,-1.340647510902216
+"Glencoe, Ballachullish, Highland, Scotland, UK",56.688204,-5.096631
+"Maratea, Potenza, Basilicata, Italy",39.9931029,15.723124
+"Exterior Tank, Paddock Lot, Backlot, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.53642,-0.5179
+"Coco Bay, Port Antonio, Portland, Jamaica",18.1763606,-76.4459288
+"Backlot, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.53642,-0.5179
+"Strada Statale 18 Tirrena Inferiore, Maratea, Potenza, Basilicata, Italy",39.963333,15.736204
+"Cosenza, Calabria, Italy",39.3099931,16.2501929
+Caribbean Sea,15.0000001,-75.0000001
+"Lymington, Hampshire, England, UK",50.7583753,-1.5426885
+"Bath, Somerset, England, UK",51.3813864,-2.3596963
+"Verulamium Park, St Albans, England, UK",51.749871049999996,-0.35453034668403605
+"Lyme Regis, Dorset, England, UK",50.7252897,-2.934559
+"Abbey Mill Lane, St Albans, England, UK",51.7497212,-0.3458003
+"Oxford, UK",51.7520131,-1.2578499
+"Mapledurham, Berkshire, England, UK",51.484822300000005,-1.035540094184573
+"Oxford, Oxfordshire, England, UK",51.7520131,-1.2578499
+"151 Front Street West, Toronto, Ontario, Canada",43.6449322,-79.383685
+"The Cicada Restaurant and Club - 617 S Olive St, Los Angeles, California, USA",34.04777,-118.25468
+"Yonge Street, Toronto, Ontario, Canada",43.673923,-79.3882783
+"Adelaide Street, Toronto, Ontario, Canada",43.6508556,-79.3764484
+"Bay Street, Toronto, Ontario, Canada",43.6607076,-79.3858018
+"Lower Bay Station, Toronto, Ontario, Canada",43.6534817,-79.3839347
+"Dundas Square, Toronto, Ontario, Canada",43.6558609,-79.380036
+"Union Station - 65 Front St W, Toronto, Ontario, Canada",43.644415,-79.3811774
+"Lakeshore, Toronto, Ontario, Canada",43.6046194,-79.4981677
+"Toronto International Studios, Toronto, Ontario, Canada",43.6534817,-79.3839347
+"Illinois, USA",40.0796606,-89.4337288
+"Isle of Harris, Western Isles, Scotland, UK",57.889691299999996,-6.877152694914314
+"Spitzkoppe, Erongo, Namibia",-21.825627,15.1951079
+"Monument Valley, Arizona, USA",36.9974714,-110.1825427
+"Stage 6, MGM British Studios, Borehamwood, Hertfordshire, England, UK",N/A,N/A
+"Broadway and W 72nd Street, Manhattan, New York City, New York, USA",40.777048,-73.967596
+"MGM British Studios, Borehamwood, Hertfordshire, England, UK",51.6604863,-0.2706506
+"Monument Valley, Utah, USA",37.0346083,-110.313101
+"Stage 4, MGM British Studios, Borehamwood, Hertfordshire, England, UK",N/A,N/A
+"Stage 1, MGM British Studios, Borehamwood, Hertfordshire, England, UK",N/A,N/A
+"Stage 2, MGM British Studios, Borehamwood, Hertfordshire, England, UK",N/A,N/A
+"Stage 5, MGM British Studios, Borehamwood, Hertfordshire, England, UK",N/A,N/A
+"Stage 3, MGM British Studios, Borehamwood, Hertfordshire, England, UK",N/A,N/A
+"Royal Opera House, Bow Street, Covent Garden, Westminster, Greater London, England, UK",51.5129126,-0.1225498306360201
+"Vatnajökull, Austurland, Iceland",64.354886,-15.264953
+Mauritania,20.2540382,-9.2399263
+"C Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.53642,-0.5179
+"B Stage, Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",51.53642,-0.5179
+"Covent Garden, Westminster, Greater London, England, UK",51.5117363,-0.1226769
+"Nevsehir, Turkey",38.7235072,34.7194168
+"Cappadocia, Turkey",38.646806,34.8491554
+"San Francisco Police Department, 850 Bryant Street, San Francisco, California, USA",37.775284,-122.403786
+"San Francisco, California, USA",37.7790262,-122.419906
+"Financial District, San Francisco, California, USA",37.7936467,-122.3989378
+"North Beach, San Francisco, California, USA",37.8011749,-122.4090021
+"Chase Center, San Francisco, California, USA",37.767892700000004,-122.38740721330376
+"Sacred Grounds - 468 West 6th Street, San Pedro, Los Angeles, California, USA",33.7388726,-118.287115
+"Winston Studio - 7588 Winston St, Burnaby, British Columbia, Canada",49.248133550000006,-122.94285332686133
+"Longcross Studios, Chobham Lane, Longcross, Chertsey, Surrey, England, UK",N/A,N/A
+"Millennium Bridge, London, Greater London, England, UK",51.5085712,-0.098572
+"Hemel Hempstead, Hertfordshire, England, UK",51.739419,-0.477099
+"Lloyd's Building, Lime Street, Broadgate, Bishopsgate Without, City of London, England, UK",51.5129645,-0.08240727537664588
+"1 New Change, City of London, England, UK",51.5140183,-0.0950175
+"B Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"K Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"R Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"S Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"T Stage/Carol Reed Stage, Shepperton Studios, Shepperton, Surrey, England, UK",51.4071205,-0.464713677756921
+"Liège-Guillemins Railway Station, Liège, Wallonia, Belgium",50.62515,5.56595
+"One New Change, 1 New Change, City of London, England, UK",51.5140183,-0.0950175
+"Raumabanen Railway Line, Bjorli, Norway",62.2578375,8.2061041
+"Cape Wrath, Sutherland, Scotland, UK",58.5539811,-4.784954
+"Lemon Rock, County Kerry, Ireland",51.80028925,-10.451781697057399
+"Church Street, Lacock, Wiltshire, England, UK",51.4160406,-2.1221462
+"Surbiton Station, Surbiton, Surrey, England, UK",51.392477549999995,-0.3039293620520369
+"West Street, Lacock, Wiltshire, England, UK",51.4159955,-2.1231821
+"Farnham, Surrey, England, UK",51.2151749,-0.7984854
+"Loch Arkaig, Highland, Scotland, UK",56.9653531,-5.076953100032542
+"Millenium Bridge, River Thames, London, England, UK",51.4493821,-0.3875796
+"The Angel, Lacock, Wiltshire, England, UK",51.4161313,-2.1223503032588664
+"Cantax Hill, Lacock, Wiltshire, England, UK",51.4191907,-2.1254385
