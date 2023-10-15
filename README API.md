@@ -2,7 +2,7 @@
 
 Resources/IMDB_API_adventure100
 Resources/IMDB_API_100
-"title"
+"title",
 
 Resources/IMDB_API_adventure100_moiveinfo
 "id",
@@ -30,4 +30,9 @@ Resources\IMDB_API_adventure100_rating
 "ratingCount",
 "topRank",
 "bottomRank",
-"ratingsHistograms"
+"ratingsHistograms",
+
+Resources\IMDB_API_adventure100_location_geoapify
+"location_name",
+"lat",
+"lon",
