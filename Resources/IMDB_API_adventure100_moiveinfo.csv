@@ -1,96 +1,101 @@
-id,title,titleType,year,runningTimeInMinutes,image_url
-tt11858890,The Creator,movie,2023,133,https://m.media-amazon.com/images/M/MV5BNDUyNTIzNDQtYTZmMi00M2FlLTgyZjUtYWViZWNhMDYzMjE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
-tt1517268,Barbie,movie,2023,114,https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
-tt9224104,Meg 2: The Trench,movie,2023,116,https://m.media-amazon.com/images/M/MV5BMTM2NTU1ZTktNjc4YS00NjNhLWE4NmYtOTM2YjFjOGUzNmYzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
-tt9603212,Mission: Impossible - Dead Reckoning Part One,movie,2023,163,https://m.media-amazon.com/images/M/MV5BYzFiZjc1YzctMDY3Zi00NGE5LTlmNWEtN2Q3OWFjYjY1NGM2XkEyXkFqcGdeQXVyMTUyMTUzNjQ0._V1_.jpg
-tt4495098,Gran Turismo,movie,2023,134,https://m.media-amazon.com/images/M/MV5BMTI1YjFmN2UtOWZhOC00MjkwLTg2ZjgtNDQ5NDQ3YWNmNGRkXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_.jpg
-tt15789038,Elemental,movie,2023,101,https://m.media-amazon.com/images/M/MV5BZjYxYWVjMDMtZGRjZS00ZDE4LTk0OWUtMjUyOTI4MmYxNjgwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
-tt3291150,Expend4bles,movie,2023,103,https://m.media-amazon.com/images/M/MV5BMDFhYjc2NmUtNDBlOC00NDE5LTk5YWYtYmM4ZmMxNTUxMGNjXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg
-tt15837338,PAW Patrol: The Mighty Movie,movie,2023,88,https://m.media-amazon.com/images/M/MV5BMGI4NTNlODItMGJlZi00OTIwLTlkM2ItMWFkZjJhZDIzMDc3XkEyXkFqcGdeQXVyMTEyNzQ1MTk0._V1_.jpg
-tt9362930,Blue Beetle,movie,2023,127,https://m.media-amazon.com/images/M/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
-tt8589698,Teenage Mutant Ninja Turtles: Mutant Mayhem,movie,2023,99,https://m.media-amazon.com/images/M/MV5BYzE4MTllZTktMTIyZS00Yzg1LTg1YzAtMWQwZTZkNjNkODNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
-tt5971474,The Little Mermaid,movie,2023,135,https://m.media-amazon.com/images/M/MV5BYTUxYjczMWUtYzlkZC00NTcwLWE3ODQtN2I2YTIxOTU0ZTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg
-tt9362722,Spider-Man: Across the Spider-Verse,movie,2023,140,https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg
-tt0241527,Harry Potter and the Sorcerer's Stone,movie,2001,152,https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg
-tt2906216,Dungeons & Dragons: Honor Among Thieves,movie,2023,134,https://m.media-amazon.com/images/M/MV5BZWM5MTQ3NDMtNGFiMS00Y2E5LWE2ZTUtNzM5MTcyZjM3ODRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
-tt11304740,Wish,movie,2023,92,https://m.media-amazon.com/images/M/MV5BYWQ4M2ZmODItNzZhYi00MzY1LTk2ZmItYTUwODI2NzJmN2JiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
-tt6791350,Guardians of the Galaxy Vol. 3,movie,2023,150,https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg
-tt1462764,Indiana Jones and the Dial of Destiny,movie,2023,154,https://m.media-amazon.com/images/M/MV5BY2M0ZGEwMGQtNzMxOC00OTU2LWExZmUtMTA5N2RhMDZlY2JiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
-tt1160419,Dune,movie,2021,155,https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg
-tt10545296,The Hunger Games: The Ballad of Songbirds and Snakes,movie,2023,157,https://m.media-amazon.com/images/M/MV5BOTZmMmY2MzctMjU2Yy00YjJlLTk1NjAtY2U4MmMxOWZkZWY4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg
-tt0816692,Interstellar,movie,2014,169,https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg
-tt0439572,The Flash,movie,2023,144,https://m.media-amazon.com/images/M/MV5BZWE2ZWE5MDQtMTJlZi00MTVjLTkxOTgtNmNiYjg2NDIxN2NhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
-tt5433140,Fast X,movie,2023,141,https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg
-tt12261776,65,movie,2023,93,https://m.media-amazon.com/images/M/MV5BNDgwNzc4MGYtOWMwMi00YjExLWIzMGEtMGQxMzA2NmExNzAxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg
-tt15153532,Strays,movie,2023,93,https://m.media-amazon.com/images/M/MV5BNDkwNjEzNTYtZmYyMS00MTJmLWE3ZjItMWIxNzBmZWU4ZGM1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
-tt1136617,The Killer,movie,2023,118,https://m.media-amazon.com/images/M/MV5BZGJkMDUwZWQtYTMzMS00NTg5LWE1ZTYtOTVhMDI4NGI1YjMyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg
-tt13287846,Napoleon,movie,2023,158,https://m.media-amazon.com/images/M/MV5BZWIzNDAxMTktMDMzZS00ZjJmLTlhNjYtOGUxYmZlYzVmOGE4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg
-tt6718170,The Super Mario Bros. Movie,movie,2023,92,https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_.jpg
-tt23026954,Monster High 2,tvMovie,2023,93,https://m.media-amazon.com/images/M/MV5BYTM3OGNhNjEtZDQ0OS00ZmI4LWEzMTItYmU2YThlZDI5OWNmXkEyXkFqcGdeQXVyMTY3NDE1NTIz._V1_.jpg
-tt6710474,Everything Everywhere All at Once,movie,2022,139,https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg
-tt15239678,Dune: Part Two,movie,2024,195,https://m.media-amazon.com/images/M/MV5BODI0YjNhNjUtYjM0My00MTUwLWFlYTMtMWI2NGUzYjNjNGQzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
-tt0172495,Gladiator,movie,2000,155,https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg
-tt0120737,The Lord of the Rings: The Fellowship of the Ring,movie,2001,178,https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg
-tt1375666,Inception,movie,2010,148,https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg
-tt5090568,Transformers: Rise of the Beasts,movie,2023,127,https://m.media-amazon.com/images/M/MV5BZTNiNDA4NmMtNTExNi00YmViLWJkMDAtMDAxNmRjY2I2NDVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
-tt1630029,Avatar: The Way of Water,movie,2022,192,https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg
-tt0330373,Harry Potter and the Goblet of Fire,movie,2005,157,https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_.jpg
-tt10676048,The Marvels,movie,2023,105,https://m.media-amazon.com/images/M/MV5BM2U2YWU5NWMtOGI2Ni00MGMwLWFkNjItMjgyZWMxNjllNTMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
-tt13086266,Concrete Utopia,movie,2023,130,https://m.media-amazon.com/images/M/MV5BNGM2ZTdmNDItMzk1Zi00NjAxLWE5MmUtNTFjMDg1YThkZDA1XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_.jpg
-tt0361748,Inglourious Basterds,movie,2009,153,https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg
-tt1392170,The Hunger Games,movie,2012,142,https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_.jpg
-tt0320661,Kingdom of Heaven,movie,2005,144,https://m.media-amazon.com/images/M/MV5BMTI2ODhkMjMtYWU2Yy00MjI1LThlNDctZTJmNDE2MDE4ZDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg
-tt3228774,Cruella,movie,2021,134,https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
-tt11866324,Prey,movie,2022,100,https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg
-tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",movie,2005,143,https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_.jpg
-tt1201607,Harry Potter and the Deathly Hallows: Part 2,movie,2011,130,https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
-tt3748528,Rogue One: A Star Wars Story,movie,2016,133,https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_.jpg
-tt0173886,Halloweentown,tvMovie,1998,84,https://m.media-amazon.com/images/M/MV5BOTAyYjQ3NjctNGMzNi00YThkLThmYzUtZDViYWZkMDA2YTMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjAwMjc0NjQ@._V1_.jpg
-tt0088763,Back to the Future,movie,1985,116,https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg
-tt0304141,Harry Potter and the Prisoner of Azkaban,movie,2004,142,https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg
-tt1392190,Mad Max: Fury Road,movie,2015,120,https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg
-tt0089218,The Goonies,movie,1985,114,https://m.media-amazon.com/images/M/MV5BNTNmZDc0ZDEtZjY3Ni00YmVjLTljNWQtMTE3NDAxNWFhMDk4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg
-tt10872600,Spider-Man: No Way Home,movie,2021,148,https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg
-tt6264654,Free Guy,movie,2021,115,https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
-tt0093779,The Princess Bride,movie,1987,98,https://m.media-amazon.com/images/M/MV5BYzdiOTVjZmQtNjAyNy00YjA2LTk5ZTAtNmJkMGQ5N2RmNjUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg
-tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,movie,2003,143,https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg
-tt4154796,Avengers: Endgame,movie,2019,181,https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg
-tt2802144,Kingsman: The Secret Service,movie,2014,129,https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
-tt0293429,Mortal Kombat,movie,2021,110,https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg
-tt2278388,The Grand Budapest Hotel,movie,2014,99,https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg
-tt0092005,Stand by Me,movie,1986,89,https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg
-tt0107290,Jurassic Park,movie,1993,127,https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg
-tt0295297,Harry Potter and the Chamber of Secrets,movie,2002,161,https://m.media-amazon.com/images/M/MV5BMjE0YjUzNDUtMjc5OS00MTU3LTgxMmUtODhkOThkMzdjNWI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg
-tt1320253,The Expendables,movie,2010,103,https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_.jpg
-tt14362112,Trolls Band Together,movie,2023,92,https://m.media-amazon.com/images/M/MV5BMTY4MDk2YWUtNWY1My00YjAxLWI4ZGQtMmRhN2FiNDI4NDRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
-tt0076759,Star Wars: Episode IV - A New Hope,movie,1977,121,https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg
-tt15326988,Ghosted,movie,2023,116,https://m.media-amazon.com/images/M/MV5BNGMzYWZlYmYtNTcyMC00ZGVjLThjN2ItMjY4MjkwN2NlMjYwXkEyXkFqcGdeQXVyOTU0NjY1MDM@._V1_.jpg
-tt0167260,The Lord of the Rings: The Return of the King,movie,2003,201,https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg
-tt0317219,Cars,movie,2006,117,https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg
-tt1446714,Prometheus,movie,2012,124,https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_.jpg
-tt6334354,The Suicide Squad,movie,2021,132,https://m.media-amazon.com/images/M/MV5BMWU4NDQ2NjEtNjhkOS00Y2MwLWJkODItZmJhZGE0MDU1OWM4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
-tt10308928,Force of Nature,movie,2020,91,https://m.media-amazon.com/images/M/MV5BNjZjODI5NmUtZTM3ZS00ZDkyLWJiMDYtYjI4MzFhODg1MDFmXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg
-tt0073195,Jaws,movie,1975,124,https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg
-tt2333784,The Expendables 3,movie,2014,126,https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg
-tt0090605,Aliens,movie,1986,137,https://m.media-amazon.com/images/M/MV5BOGJkY2EyOWYtYWRmNy00ZTEzLTllMDAtYzYzYjA0ZjFhZWJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg
-tt0870154,Jungle Cruise,movie,2021,127,https://m.media-amazon.com/images/M/MV5BNDE1MGRlNTQtZjc4ZC00MTI0LWEwY2MtODk1YTM2NmFmYTNmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg
-tt0110357,The Lion King,movie,1994,88,https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg
-tt0052618,Ben-Hur,movie,1959,212,https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg
-tt4513678,Ghostbusters: Afterlife,movie,2021,124,https://m.media-amazon.com/images/M/MV5BMGY2NjUwODEtMGM5OS00MzhkLWEzYTUtYjkwMjFmNjhiN2FmXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg
-tt1921064,Pompeii,movie,2014,105,https://m.media-amazon.com/images/M/MV5BNjJkMzhjZWItNzVjMS00N2Y0LWE5YWMtY2Q5NGIzOWZmOTEzXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_.jpg
-tt1470827,Monsters,movie,2010,94,https://m.media-amazon.com/images/M/MV5BMjE4MzMyNjExMl5BMl5BanBnXkFtZTcwMzI5NjM3Mw@@._V1_.jpg
-tt6587046,The Boy and the Heron,movie,2023,124,https://m.media-amazon.com/images/M/MV5BYzc1ZDVjODAtNjk2Yy00MWI0LWIyNDktNGUxZTJiNGU0MWE0XkEyXkFqcGdeQXVyNjE0MjQ3MTU@._V1_.jpg
-tt0435625,The Descent,movie,2005,99,https://m.media-amazon.com/images/M/MV5BMjA5NzQ1NTgwNV5BMl5BanBnXkFtZTcwNjUxMzUzMw@@._V1_.jpg
-tt0432283,Fantastic Mr. Fox,movie,2009,87,https://m.media-amazon.com/images/M/MV5BOGUwYTU4NGEtNDM4MS00NDRjLTkwNmQtOTkwMWMyMjhmMjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg
-tt4633694,Spider-Man: Into the Spider-Verse,movie,2018,117,https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg
-tt0120616,The Mummy,movie,1999,124,https://m.media-amazon.com/images/M/MV5BOTJiYjBhZDgtMjhiOC00MTIzLThlNGMtMmI1NjIwM2M3YTI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg
-tt0120915,Star Wars: Episode I - The Phantom Menace,movie,1999,136,https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg
-tt2404435,The Magnificent Seven,movie,2016,132,https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_.jpg
-tt2382320,No Time to Die,movie,2021,163,https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg
-tt1386697,Suicide Squad,movie,2016,123,https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_.jpg
-tt0062622,2001: A Space Odyssey,movie,1968,149,https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg
-tt0119116,The Fifth Element,movie,1997,126,https://m.media-amazon.com/images/M/MV5BZWFjYmZmZGQtYzg4YS00ZGE5LTgwYzAtZmQwZjQ2NDliMGVmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg
-tt10954600,Ant-Man and the Wasp: Quantumania,movie,2023,124,https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg
-tt1447981,Monster High: The Movie,tvMovie,2022,92,https://m.media-amazon.com/images/M/MV5BNTQyOTBhOTctZjk4MC00MGM3LTg0YTAtNDlhYjYyYWYxMGJiXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_.jpg
-tt2015381,Guardians of the Galaxy,movie,2014,121,https://m.media-amazon.com/images/M/MV5BNDIzMTk4NDYtMjg5OS00ZGI0LWJhZDYtMzdmZGY1YWU5ZGNkXkEyXkFqcGdeQXVyMTI5NzUyMTIz._V1_.jpg
-tt0417741,Harry Potter and the Half-Blood Prince,movie,2009,153,https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_.jpg
+id,title,titleType,genres,year,releaseDate,runningTimeInMinutes,image_url
+tt11858890,The Creator,movie,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",2023,2023-09-29,133.0,https://m.media-amazon.com/images/M/MV5BNDUyNTIzNDQtYTZmMi00M2FlLTgyZjUtYWViZWNhMDYzMjE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
+tt1517268,Barbie,movie,"['Adventure', 'Comedy', 'Fantasy']",2023,2023-07-21,114.0,https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
+tt9224104,Meg 2: The Trench,movie,"['Action', 'Adventure', 'Horror', 'Sci-Fi', 'Thriller']",2023,2023-08-04,116.0,https://m.media-amazon.com/images/M/MV5BMTM2NTU1ZTktNjc4YS00NjNhLWE4NmYtOTM2YjFjOGUzNmYzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
+tt9603212,Mission: Impossible - Dead Reckoning Part One,movie,"['Action', 'Adventure', 'Thriller']",2023,2023-07-11,163.0,https://m.media-amazon.com/images/M/MV5BYzFiZjc1YzctMDY3Zi00NGE5LTlmNWEtN2Q3OWFjYjY1NGM2XkEyXkFqcGdeQXVyMTUyMTUzNjQ0._V1_.jpg
+tt4495098,Gran Turismo,movie,"['Action', 'Adventure', 'Drama', 'Sport']",2023,2023-08-25,134.0,https://m.media-amazon.com/images/M/MV5BMTI1YjFmN2UtOWZhOC00MjkwLTg2ZjgtNDQ5NDQ3YWNmNGRkXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_.jpg
+tt15789038,Elemental,movie,"['Animation', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi']",2023,2023-06-16,101.0,https://m.media-amazon.com/images/M/MV5BZjYxYWVjMDMtZGRjZS00ZDE4LTk0OWUtMjUyOTI4MmYxNjgwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
+tt3291150,Expend4bles,movie,"['Action', 'Adventure', 'Thriller', 'War']",2023,2023-09-22,103.0,https://m.media-amazon.com/images/M/MV5BMDFhYjc2NmUtNDBlOC00NDE5LTk5YWYtYmM4ZmMxNTUxMGNjXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg
+tt15837338,PAW Patrol: The Mighty Movie,movie,"['Animation', 'Action', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi']",2023,2023-09-29,88.0,https://m.media-amazon.com/images/M/MV5BMGI4NTNlODItMGJlZi00OTIwLTlkM2ItMWFkZjJhZDIzMDc3XkEyXkFqcGdeQXVyMTEyNzQ1MTk0._V1_.jpg
+tt9362930,Blue Beetle,movie,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",2023,2023-08-18,127.0,https://m.media-amazon.com/images/M/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
+tt8589698,Teenage Mutant Ninja Turtles: Mutant Mayhem,movie,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",2023,2023-08-02,99.0,https://m.media-amazon.com/images/M/MV5BYzE4MTllZTktMTIyZS00Yzg1LTg1YzAtMWQwZTZkNjNkODNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
+tt5971474,The Little Mermaid,movie,"['Adventure', 'Family', 'Fantasy', 'Musical', 'Romance']",2023,2023-05-26,135.0,https://m.media-amazon.com/images/M/MV5BYTUxYjczMWUtYzlkZC00NTcwLWE3ODQtN2I2YTIxOTU0ZTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg
+tt9362722,Spider-Man: Across the Spider-Verse,movie,"['Animation', 'Action', 'Adventure', 'Fantasy', 'Sci-Fi']",2023,2023-06-02,140.0,https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg
+tt0241527,Harry Potter and the Sorcerer's Stone,movie,"['Adventure', 'Family', 'Fantasy']",2001,2001-11-16,152.0,https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg
+tt2906216,Dungeons & Dragons: Honor Among Thieves,movie,"['Action', 'Adventure', 'Comedy', 'Fantasy']",2023,2023-03-31,134.0,https://m.media-amazon.com/images/M/MV5BZWM5MTQ3NDMtNGFiMS00Y2E5LWE2ZTUtNzM5MTcyZjM3ODRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+tt11304740,Wish,movie,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",2023,2023-11-22,92.0,https://m.media-amazon.com/images/M/MV5BYWQ4M2ZmODItNzZhYi00MzY1LTk2ZmItYTUwODI2NzJmN2JiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+tt6791350,Guardians of the Galaxy Vol. 3,movie,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",2023,2023-05-05,150.0,https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg
+tt1462764,Indiana Jones and the Dial of Destiny,movie,"['Action', 'Adventure', 'Sci-Fi']",2023,2023-06-30,154.0,https://m.media-amazon.com/images/M/MV5BY2M0ZGEwMGQtNzMxOC00OTU2LWExZmUtMTA5N2RhMDZlY2JiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
+tt1160419,Dune,movie,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",2021,2021-10-22,155.0,https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg
+tt10545296,The Hunger Games: The Ballad of Songbirds and Snakes,movie,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller', 'War']",2023,2023-11-17,157.0,https://m.media-amazon.com/images/M/MV5BOTZmMmY2MzctMjU2Yy00YjJlLTk1NjAtY2U4MmMxOWZkZWY4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg
+tt0816692,Interstellar,movie,"['Adventure', 'Drama', 'Sci-Fi']",2014,2014-11-07,169.0,https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg
+tt0439572,The Flash,movie,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",2023,2023-06-16,144.0,https://m.media-amazon.com/images/M/MV5BZWE2ZWE5MDQtMTJlZi00MTVjLTkxOTgtNmNiYjg2NDIxN2NhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
+tt5433140,Fast X,movie,"['Action', 'Adventure', 'Crime', 'Mystery', 'Thriller']",2023,2023-05-19,141.0,https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg
+tt12261776,65,movie,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",2023,2023-03-10,93.0,https://m.media-amazon.com/images/M/MV5BNDgwNzc4MGYtOWMwMi00YjExLWIzMGEtMGQxMzA2NmExNzAxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg
+tt15153532,Strays,movie,"['Adventure', 'Comedy']",2023,2023-08-18,93.0,https://m.media-amazon.com/images/M/MV5BNDkwNjEzNTYtZmYyMS00MTJmLWE3ZjItMWIxNzBmZWU4ZGM1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
+tt1136617,The Killer,movie,"['Action', 'Adventure', 'Crime', 'Drama', 'Mystery', 'Thriller']",2023,2023-11-10,118.0,https://m.media-amazon.com/images/M/MV5BZGJkMDUwZWQtYTMzMS00NTg5LWE1ZTYtOTVhMDI4NGI1YjMyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg
+tt13287846,Napoleon,movie,"['Action', 'Adventure', 'Biography', 'Drama', 'History', 'War']",2023,2023-11-22,158.0,https://m.media-amazon.com/images/M/MV5BZWIzNDAxMTktMDMzZS00ZjJmLTlhNjYtOGUxYmZlYzVmOGE4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg
+tt6718170,The Super Mario Bros. Movie,movie,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",2023,2023-04-05,92.0,https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_.jpg
+tt23026954,Monster High 2,tvMovie,"['Action', 'Adventure', 'Fantasy', 'Musical']",2023,2023-10-05,93.0,https://m.media-amazon.com/images/M/MV5BYTM3OGNhNjEtZDQ0OS00ZmI4LWEzMTItYmU2YThlZDI5OWNmXkEyXkFqcGdeQXVyMTY3NDE1NTIz._V1_.jpg
+tt6710474,Everything Everywhere All at Once,movie,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",2022,2022-04-08,139.0,https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg
+tt15239678,Dune: Part Two,movie,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",2024,2024-03-15,195.0,https://m.media-amazon.com/images/M/MV5BODI0YjNhNjUtYjM0My00MTUwLWFlYTMtMWI2NGUzYjNjNGQzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+tt0172495,Gladiator,movie,"['Action', 'Adventure', 'Drama']",2000,2000-05-05,155.0,https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,movie,"['Action', 'Adventure', 'Drama', 'Fantasy']",2001,2001-12-19,178.0,https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg
+tt1375666,Inception,movie,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",2010,2010-07-16,148.0,https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg
+tt5090568,Transformers: Rise of the Beasts,movie,"['Action', 'Adventure', 'Sci-Fi']",2023,2023-06-09,127.0,https://m.media-amazon.com/images/M/MV5BZTNiNDA4NmMtNTExNi00YmViLWJkMDAtMDAxNmRjY2I2NDVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+tt1630029,Avatar: The Way of Water,movie,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",2022,2022-12-16,192.0,https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg
+tt0330373,Harry Potter and the Goblet of Fire,movie,"['Adventure', 'Family', 'Fantasy', 'Mystery']",2005,2005-11-18,157.0,https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_.jpg
+tt10676048,The Marvels,movie,"['Action', 'Adventure', 'Fantasy']",2023,2023-11-10,105.0,https://m.media-amazon.com/images/M/MV5BM2U2YWU5NWMtOGI2Ni00MGMwLWFkNjItMjgyZWMxNjllNTMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+tt13086266,Concrete Utopia,movie,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",2023,2023-10-14,130.0,https://m.media-amazon.com/images/M/MV5BNGM2ZTdmNDItMzk1Zi00NjAxLWE5MmUtNTFjMDg1YThkZDA1XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_.jpg
+tt0361748,Inglourious Basterds,movie,"['Adventure', 'Drama', 'War']",2009,2009-08-21,153.0,https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg
+tt1392170,The Hunger Games,movie,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",2012,2012-03-23,142.0,https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_.jpg
+tt0320661,Kingdom of Heaven,movie,"['Action', 'Adventure', 'Drama', 'History', 'War']",2005,2005-05-06,144.0,https://m.media-amazon.com/images/M/MV5BMTI2ODhkMjMtYWU2Yy00MjI1LThlNDctZTJmNDE2MDE4ZDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg
+tt3228774,Cruella,movie,"['Adventure', 'Comedy', 'Crime', 'Drama']",2021,2021-05-28,134.0,https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+tt11866324,Prey,movie,"['Action', 'Adventure', 'Drama', 'Horror', 'Sci-Fi', 'Thriller']",2022,2022-08-05,100.0,https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",movie,"['Adventure', 'Family', 'Fantasy']",2005,2005-12-09,143.0,https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_.jpg
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,movie,"['Adventure', 'Family', 'Fantasy', 'Mystery']",2011,2011-07-15,130.0,https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
+tt3748528,Rogue One: A Star Wars Story,movie,"['Action', 'Adventure', 'Sci-Fi']",2016,2016-12-16,133.0,https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_.jpg
+tt0173886,Halloweentown,tvMovie,"['Adventure', 'Comedy', 'Family', 'Fantasy']",1998,1998-10-17,84.0,https://m.media-amazon.com/images/M/MV5BOTAyYjQ3NjctNGMzNi00YThkLThmYzUtZDViYWZkMDA2YTMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjAwMjc0NjQ@._V1_.jpg
+tt0088763,Back to the Future,movie,"['Adventure', 'Comedy', 'Sci-Fi']",1985,1985-07-03,116.0,https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg
+tt6208148,Snow White,movie,"['Adventure', 'Drama', 'Family', 'Fantasy', 'Musical', 'Romance']",2024,2024-03-22,,https://m.media-amazon.com/images/M/MV5BOTU5ZDZmNDMtMGQ5Mi00OTBmLWI2YTctNDQ0NjIyYWRmZTZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
+tt0304141,Harry Potter and the Prisoner of Azkaban,movie,"['Adventure', 'Family', 'Fantasy', 'Mystery']",2004,2004-06-04,142.0,https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg
+tt1392190,Mad Max: Fury Road,movie,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",2015,2015-05-15,120.0,https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg
+tt0089218,The Goonies,movie,"['Adventure', 'Comedy', 'Family']",1985,1985-06-07,114.0,https://m.media-amazon.com/images/M/MV5BNTNmZDc0ZDEtZjY3Ni00YmVjLTljNWQtMTE3NDAxNWFhMDk4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg
+tt10872600,Spider-Man: No Way Home,movie,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",2021,2021-12-17,148.0,https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg
+tt6264654,Free Guy,movie,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",2021,2021-08-13,115.0,https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg
+tt0093779,The Princess Bride,movie,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance']",1987,1987-10-09,98.0,https://m.media-amazon.com/images/M/MV5BYzdiOTVjZmQtNjAyNy00YjA2LTk5ZTAtNmJkMGQ5N2RmNjUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,movie,"['Action', 'Adventure', 'Fantasy']",2003,2003-07-09,143.0,https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg
+tt9663764,Aquaman and the Lost Kingdom,movie,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",2023,2023-12-20,,https://m.media-amazon.com/images/M/MV5BYWJmZWQ1ZTctMTVkYi00YThhLWE1NTgtYWQ1NTJjYWI0MWM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg
+tt4154796,Avengers: Endgame,movie,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",2019,2019-04-26,181.0,https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg
+tt2802144,Kingsman: The Secret Service,movie,"['Action', 'Adventure', 'Comedy', 'Thriller']",2014,2015-02-13,129.0,https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
+tt0293429,Mortal Kombat,movie,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Thriller']",2021,2021-04-23,110.0,https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg
+tt2278388,The Grand Budapest Hotel,movie,"['Adventure', 'Comedy', 'Crime']",2014,2014-03-28,99.0,https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg
+tt0092005,Stand by Me,movie,"['Adventure', 'Comedy', 'Drama']",1986,1986-08-22,89.0,https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg
+tt0107290,Jurassic Park,movie,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",1993,1993-06-11,127.0,https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg
+tt0295297,Harry Potter and the Chamber of Secrets,movie,"['Adventure', 'Family', 'Fantasy', 'Mystery']",2002,2002-11-15,161.0,https://m.media-amazon.com/images/M/MV5BMjE0YjUzNDUtMjc5OS00MTU3LTgxMmUtODhkOThkMzdjNWI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg
+tt1320253,The Expendables,movie,"['Action', 'Adventure', 'Thriller']",2010,2010-08-13,103.0,https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_.jpg
+tt14362112,Trolls Band Together,movie,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Music']",2023,2023-11-17,92.0,https://m.media-amazon.com/images/M/MV5BMTY4MDk2YWUtNWY1My00YjAxLWI4ZGQtMmRhN2FiNDI4NDRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg
+tt0076759,Star Wars: Episode IV - A New Hope,movie,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",1977,1977-05-25,121.0,https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg
+tt15326988,Ghosted,movie,"['Action', 'Adventure', 'Comedy', 'Romance']",2023,2023-04-21,116.0,https://m.media-amazon.com/images/M/MV5BNGMzYWZlYmYtNTcyMC00ZGVjLThjN2ItMjY4MjkwN2NlMjYwXkEyXkFqcGdeQXVyOTU0NjY1MDM@._V1_.jpg
+tt0167260,The Lord of the Rings: The Return of the King,movie,"['Action', 'Adventure', 'Drama', 'Fantasy']",2003,2003-12-17,201.0,https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg
+tt0317219,Cars,movie,"['Animation', 'Adventure', 'Comedy', 'Family', 'Sport']",2006,2006-06-09,117.0,https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg
+tt1446714,Prometheus,movie,"['Adventure', 'Mystery', 'Sci-Fi']",2012,2012-06-08,124.0,https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_.jpg
+tt6334354,The Suicide Squad,movie,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",2021,2021-08-05,132.0,https://m.media-amazon.com/images/M/MV5BMWU4NDQ2NjEtNjhkOS00Y2MwLWJkODItZmJhZGE0MDU1OWM4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg
+tt10308928,Force of Nature,movie,"['Action', 'Adventure', 'Crime', 'Drama', 'Mystery', 'Thriller']",2020,2020-06-30,91.0,https://m.media-amazon.com/images/M/MV5BNjZjODI5NmUtZTM3ZS00ZDkyLWJiMDYtYjI4MzFhODg1MDFmXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg
+tt0073195,Jaws,movie,"['Adventure', 'Mystery', 'Thriller']",1975,1975-06-20,124.0,https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg
+tt2333784,The Expendables 3,movie,"['Action', 'Adventure', 'Thriller']",2014,2014-08-15,126.0,https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg
+tt0090605,Aliens,movie,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",1986,1986-07-18,137.0,https://m.media-amazon.com/images/M/MV5BOGJkY2EyOWYtYWRmNy00ZTEzLTllMDAtYzYzYjA0ZjFhZWJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg
+tt0870154,Jungle Cruise,movie,"['Action', 'Adventure', 'Comedy', 'Fantasy']",2021,2021-07-30,127.0,https://m.media-amazon.com/images/M/MV5BNDE1MGRlNTQtZjc4ZC00MTI0LWEwY2MtODk1YTM2NmFmYTNmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg
+tt0110357,The Lion King,movie,"['Animation', 'Adventure', 'Drama', 'Family', 'Musical']",1994,1994-06-24,88.0,https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg
+tt9218128,Gladiator 2,movie,"['Action', 'Adventure', 'Drama']",2024,2024-11-22,,https://m.media-amazon.com/images/M/MV5BYTNmMzliMmYtNjEyZS00NGM3LWEzYWEtNmI3MGJjMTIzZjI4XkEyXkFqcGdeQXVyMTI3NjAxODc0._V1_.jpg
+tt0052618,Ben-Hur,movie,"['Adventure', 'Drama']",1959,1959-11-18,212.0,https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg
+tt4513678,Ghostbusters: Afterlife,movie,"['Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",2021,2021-11-19,124.0,https://m.media-amazon.com/images/M/MV5BMGY2NjUwODEtMGM5OS00MzhkLWEzYTUtYjkwMjFmNjhiN2FmXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg
+tt1921064,Pompeii,movie,"['Action', 'Adventure', 'Drama', 'History', 'Romance']",2014,2014-02-21,105.0,https://m.media-amazon.com/images/M/MV5BNjJkMzhjZWItNzVjMS00N2Y0LWE5YWMtY2Q5NGIzOWZmOTEzXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_.jpg
+tt1470827,Monsters,movie,"['Adventure', 'Drama', 'Romance', 'Sci-Fi', 'Thriller']",2010,2010-03-13,94.0,https://m.media-amazon.com/images/M/MV5BMjE4MzMyNjExMl5BMl5BanBnXkFtZTcwMzI5NjM3Mw@@._V1_.jpg
+tt6587046,The Boy and the Heron,movie,"['Animation', 'Adventure', 'Drama', 'Family', 'Fantasy']",2023,2023-12-08,124.0,https://m.media-amazon.com/images/M/MV5BYzc1ZDVjODAtNjk2Yy00MWI0LWIyNDktNGUxZTJiNGU0MWE0XkEyXkFqcGdeQXVyNjE0MjQ3MTU@._V1_.jpg
+tt0435625,The Descent,movie,"['Adventure', 'Horror', 'Thriller']",2005,2006-08-04,99.0,https://m.media-amazon.com/images/M/MV5BMjA5NzQ1NTgwNV5BMl5BanBnXkFtZTcwNjUxMzUzMw@@._V1_.jpg
+tt0432283,Fantastic Mr. Fox,movie,"['Animation', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Family']",2009,2009-11-25,87.0,https://m.media-amazon.com/images/M/MV5BOGUwYTU4NGEtNDM4MS00NDRjLTkwNmQtOTkwMWMyMjhmMjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg
+tt14998742,Rebel Moon,movie,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",2023,2023-12-22,,https://m.media-amazon.com/images/M/MV5BNjBkNGRlMTctOGYzMi00NzAyLTlkY2UtN2FkM2QyMzM2N2UwXkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_.jpg
+tt4633694,Spider-Man: Into the Spider-Verse,movie,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",2018,2018-12-14,117.0,https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg
+tt0120616,The Mummy,movie,"['Action', 'Adventure', 'Fantasy']",1999,1999-05-07,124.0,https://m.media-amazon.com/images/M/MV5BOTJiYjBhZDgtMjhiOC00MTIzLThlNGMtMmI1NjIwM2M3YTI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg
+tt0120915,Star Wars: Episode I - The Phantom Menace,movie,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",1999,1999-05-19,136.0,https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg
+tt2404435,The Magnificent Seven,movie,"['Action', 'Adventure', 'Drama', 'Western']",2016,2016-09-23,132.0,https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_.jpg
+tt2382320,No Time to Die,movie,"['Action', 'Adventure', 'Thriller']",2021,2021-10-08,163.0,https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg
+tt6166392,Wonka,movie,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",2023,2023-12-15,,https://m.media-amazon.com/images/M/MV5BNzJiZGRkMDgtZWFlOS00MWRhLThhNTEtMjljZTJjYTljYTBjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg
+tt1386697,Suicide Squad,movie,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",2016,2016-08-05,123.0,https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_.jpg
+tt0062622,2001: A Space Odyssey,movie,"['Adventure', 'Sci-Fi']",1968,1968-04-02,149.0,https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg
+tt0119116,The Fifth Element,movie,"['Action', 'Adventure', 'Sci-Fi']",1997,1997-05-09,126.0,https://m.media-amazon.com/images/M/MV5BZWFjYmZmZGQtYzg4YS00ZGE5LTgwYzAtZmQwZjQ2NDliMGVmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg
+tt10954600,Ant-Man and the Wasp: Quantumania,movie,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",2023,2023-02-17,124.0,https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg
+tt1447981,Monster High: The Movie,tvMovie,"['Action', 'Adventure', 'Fantasy', 'Musical']",2022,2022-10-06,92.0,https://m.media-amazon.com/images/M/MV5BNTQyOTBhOTctZjk4MC00MGM3LTg0YTAtNDlhYjYyYWYxMGJiXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_.jpg
+tt2015381,Guardians of the Galaxy,movie,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",2014,2014-08-01,121.0,https://m.media-amazon.com/images/M/MV5BNDIzMTk4NDYtMjg5OS00ZGI0LWJhZDYtMzdmZGY1YWU5ZGNkXkEyXkFqcGdeQXVyMTI5NzUyMTIz._V1_.jpg
+tt0417741,Harry Potter and the Half-Blood Prince,movie,"['Action', 'Adventure', 'Family', 'Fantasy', 'Mystery']",2009,2009-07-15,153.0,https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_.jpg

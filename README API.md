@@ -11,6 +11,8 @@ Resources/IMDB_API_adventure100_moiveinfo
 "title",
 "titleType",
 "year",
+"genres",
+"releaseDate",
 
 Resources/IMDB_API_adventure100_soundtrack
 "id",
