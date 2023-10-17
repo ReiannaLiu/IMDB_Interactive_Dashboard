@@ -13,8 +13,8 @@ app = Flask(__name__)
 #################################################
 # Database Setup
 #################################################
-app.config['MONGO_URI'] = "mongodb://localhost:27017/mydatabase"
-client = MongoClient(app.config['MONGO_URI'])
+app.config['MONGO_URI'] = "mongodb://localhost:27017/IMDB_MOVIES"
+client = MongoClient(app.config['MONGO_URI'], serverSelectionTimeoutMS=5000)    
 db = client.get_database()
 
 class JSONEncoder(json.JSONEncoder):
@@ -27,15 +27,26 @@ class JSONEncoder(json.JSONEncoder):
 #################################################
 # Flask Routes
 #################################################
+
 @app.route('/')
 def index():
     return "Welcome to IMDB Interactive Dashboard API!"
 
+@app.route('/list_collections', methods=['GET'])
+def list_collections():
+    collection_names = db.list_collection_names()
+    return jsonify(collection_names)
+
 @app.route('/read/<document_id>', methods=['GET'])
 def read_document(document_id):
-    collection = db.my_collection
+    # Check if ObjectId is valid
+    if not ObjectId.is_valid(document_id):
+        return jsonify({"error": "Invalid ObjectId"}), 400
+    
+    collection = db.movies
     document = collection.find_one({"_id": ObjectId(document_id)})
-    return jsonify(document)
+
+    return JSONEncoder().encode(document), 200
 
 if __name__ == "__main__":
     app.run(debug=True)
