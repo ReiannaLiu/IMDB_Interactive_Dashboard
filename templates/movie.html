@@ -31,15 +31,26 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
     <!-- Our CSS  -->
-    <link rel="stylesheet" href="./static/css/style.css" />
+    <link rel="stylesheet" href="../static/css/style.css" />
+
+    <script>
+        let selectedMovieTitle = "{{ movie_name }}";
+    </script>
+
 
 </head>
 
 <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/"><i class="fas fa-home"></i></a>
+        </div>
+    </nav>
+
     <div class="container-xxl">
         <div class="row">
             <div class="col-md-12 jumbotron text-center">
-                <h1>Title TBD</h1>
+                <h1>{{ movie_name }}</h1>
                 <p>Use the interactive charts below to explore the dataset</p>
             </div>
             <select class="form-select" aria-label="Default select example" id="selMovies"

@@ -25,3 +25,32 @@
     height: 400px;
     overflow-y: auto;
 }
+
+.card {
+    width: 250px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+.card-body {
+    flex: 1;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text {
+    text-align: center;
+    font-weight: bold;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
