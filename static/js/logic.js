@@ -4,7 +4,7 @@ var movieData = "http://127.0.0.1:5000/read_all";
 
 var moviejson;
 
-const select = d3.select("#selMovies");
+const movieSelect = d3.select("#selMovies");
 
 // Create a marker layer group.
 let markers = L.layerGroup();
@@ -16,17 +16,27 @@ d3.json(movieData).then(function (data) {
     // Append options to the select element
     for (let i = 0; i < moviejson.length; i++) {
         let movie = moviejson[i]
-        select.append("option").text(movie.title).property("value", movie.title);
+        movieSelect.append("option").text(movie.title).property("value", movie.title);
+        if (i === 0 && movie.ratingsHistograms) {
+            let histSelect = d3.select("#selHist");
+
+            // Append options to the select element
+            Object.keys(movie.ratingsHistograms).forEach(key => {
+                histSelect.append("option").text(key).property("value", key);
+            });
+        }
     }
 
     initMap();
     initSoundtracks();
+
+    let defaultHist = Object.keys(moviejson[0].ratingsHistograms)[0];
+    ratingChanged(defaultHist);
 });
 
 function appendRowsToTable(data) {
     // Select the table body 
     let tbody = d3.select("#soundtracks").select("tbody");
-    console.log(data.soundtracks)
 
     // Clear the table body
     tbody.html("");
@@ -34,8 +44,6 @@ function appendRowsToTable(data) {
     // Append rows to the table
     // Check if soundtracks exists and is not empty
     if (data.soundtracks && data.soundtracks.length > 0) {
-        console.log(data.soundtracks);
-
         // Append rows to the table
         data.soundtracks.forEach(sound => {
             let row = tbody.append("tr");
@@ -90,9 +98,28 @@ function optionChanged() {
 
     let movieData = moviejson.filter(m => m.title === movie)[0];
 
+    let histSelect = d3.select("#selHist");
+
+    // Append options to the select element
+    histSelect.html("");
+    if (movieData.ratingsHistograms && Object.keys(movieData.ratingsHistograms).length > 0) {
+        Object.keys(movieData.ratingsHistograms).forEach(key => {
+            histSelect.append("option").text(key).property("value", key);
+        });
+    } else {
+        histSelect.append("option").text("No histograms available").property("value", "");
+    }
+
     // Call function to update teh chart
     updateMap(movieData);
     updateSoundtracks(movieData);
+}
+
+function ratingChanged(histName) {
+    let selectedMovie = d3.select("#selMovies").property("value");
+    let movieData = moviejson.filter(m => m.title === selectedMovie)[0];
+    let histData = movieData.ratingsHistograms[histName];
+    drawHistogram(histData);
 }
 
 // Update the restyled plot's values
@@ -101,11 +128,59 @@ function updateMap(newdata) {
     markers.clearLayers();
 
     // Create markers for each location in the dataset
-    newdata.locations.forEach(location => {
-        let marker = L.marker([location.lat, location.lon]).bindPopup(`<p>${location.location_name}</p>`);
-        markers.addLayer(marker);
-    });
+    if (newdata.locations && newdata.locations.length > 0) {
+        newdata.locations.forEach(location => {
+            let marker = L.marker([location.lat, location.lon]).bindPopup(`<p>${location.location_name}</p>`);
+            markers.addLayer(marker);
+        });
+    }
 }
+
+function drawHistogram(histData) {
+    // Prepare the SVG area
+    let svgWidth = 500, svgHeight = 400;
+    let margin = { top: 20, right: 20, bottom: 30, left: 40 };
+    let width = svgWidth - margin.left - margin.right;
+    let height = svgHeight - margin.top - margin.bottom;
+
+    let svg = d3.select("#ratings").html("").append("svg")
+        .attr("width", svgWidth)
+        .attr("height", svgHeight)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    // Extract histogram data
+    let histogram = [];
+    Object.keys(histData.histogram).forEach(key => {
+        histogram.push({ rating: +key, count: histData.histogram[key] });
+    });
+
+    // Scale the data
+    let x = d3.scaleLinear()
+        .domain([1, 10])
+        .range([0, width]);
+    let y = d3.scaleLinear()
+        .domain([0, d3.max(histogram, d => d.count)])
+        .range([height, 0]);
+
+    // Draw the bars
+    svg.selectAll("rect")
+        .data(histogram)
+        .enter().append("rect")
+        .attr("x", d => x(d.rating))
+        .attr("y", d => y(d.count))
+        .attr("width", width / 10 - 1)  // 10 bars for 10 ratings
+        .attr("height", d => height - y(d.count))
+        .attr("fill", "steelblue");
+
+    // Add the axes
+    svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+    svg.append("g")
+        .call(d3.axisLeft(y));
+}
+
 
 function updateSoundtracks(newdata) {
     appendRowsToTable(newdata);
