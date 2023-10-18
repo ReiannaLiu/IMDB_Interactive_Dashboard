@@ -2,7 +2,7 @@
 #pip install Flask
 #pip install pymongo
 
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template, redirect
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 import json
@@ -32,14 +32,18 @@ class JSONEncoder(json.JSONEncoder):
 
 @app.route('/')
 def index():
-    return "Welcome to IMDB Interactive Dashboard API!"
+    return render_template('index.html')
 
-@app.route('/list_collections', methods=['GET'])
+# @app.route('/movie/<string:movie_name>')
+# def movie_page(movie_name):
+#     return render_template('movie.html', movie_name=movie_name)
+
+@app.route('/api/list_collections', methods=['GET'])
 def list_collections():
     collection_names = db.list_collection_names()
     return jsonify(collection_names)
 
-@app.route('/read/<document_id>', methods=['GET'])
+@app.route('/api/read/<document_id>', methods=['GET'])
 def read_document(document_id):
     # Check if ObjectId is valid
     if not ObjectId.is_valid(document_id):
@@ -50,14 +54,14 @@ def read_document(document_id):
 
     return JSONEncoder().encode(document), 200
 
-@app.route('/read_all', methods=['GET'])
+@app.route('/api/read_all', methods=['GET'])
 def read_all():
     collection = db.movies
     documents = collection.find()
 
     return JSONEncoder().encode(list(documents)), 200
 
-@app.route('/read_by_title/<title>', methods=['GET'])
+@app.route('/api/read_by_title/<title>', methods=['GET'])
 def read_by_title(title):
     collection = db.movies
     documents = collection.find({"title": title})

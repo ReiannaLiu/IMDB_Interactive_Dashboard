@@ -1,6 +1,6 @@
 
 // Load the json data
-var movieData = "http://127.0.0.1:5000/read_all";
+var movieData = "http://127.0.0.1:5000/api/read_all";
 
 var moviejson;
 
@@ -156,8 +156,9 @@ function drawHistogram(histData) {
     });
 
     // Scale the data
+    let barWidth = width / 10;
     let x = d3.scaleLinear()
-        .domain([1, 10])
+        .domain([0, 11])
         .range([0, width]);
     let y = d3.scaleLinear()
         .domain([0, d3.max(histogram, d => d.count)])
@@ -167,9 +168,9 @@ function drawHistogram(histData) {
     svg.selectAll("rect")
         .data(histogram)
         .enter().append("rect")
-        .attr("x", d => x(d.rating))
+        .attr("x", d => x(d.rating) - barWidth / 2)
         .attr("y", d => y(d.count))
-        .attr("width", width / 10 - 1)  // 10 bars for 10 ratings
+        .attr("width", barWidth - 1)  // 10 bars for 10 ratings
         .attr("height", d => height - y(d.count))
         .attr("fill", "steelblue");
 
