@@ -48,6 +48,13 @@ def read_document(document_id):
 
     return JSONEncoder().encode(document), 200
 
+@app.route('/read_all', methods=['GET'])
+def read_all():
+    collection = db.movies
+    documents = collection.find()
+
+    return JSONEncoder().encode(list(documents)), 200
+
 if __name__ == "__main__":
     app.run(debug=True)
 
