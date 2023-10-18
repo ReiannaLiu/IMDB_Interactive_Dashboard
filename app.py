@@ -6,9 +6,11 @@ from flask import Flask, jsonify
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 import json
-
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
+
 
 #################################################
 # Database Setup
@@ -52,6 +54,13 @@ def read_document(document_id):
 def read_all():
     collection = db.movies
     documents = collection.find()
+
+    return JSONEncoder().encode(list(documents)), 200
+
+@app.route('/read_by_title/<title>', methods=['GET'])
+def read_by_title(title):
+    collection = db.movies
+    documents = collection.find({"title": title})
 
     return JSONEncoder().encode(list(documents)), 200
 
