@@ -15,3 +15,8 @@
 .spacing-above {
     margin-top: 20px;
 }
+
+.table-container {
+    max-height: 400px;
+    overflow-y: auto;
+}
