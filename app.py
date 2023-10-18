@@ -34,9 +34,9 @@ class JSONEncoder(json.JSONEncoder):
 def index():
     return render_template('index.html')
 
-# @app.route('/movie/<string:movie_name>')
-# def movie_page(movie_name):
-#     return render_template('movie.html', movie_name=movie_name)
+@app.route('/movie/<string:movie_name>')
+def movie_page(movie_name):
+    return render_template('movie.html', movie_name=movie_name)
 
 @app.route('/api/list_collections', methods=['GET'])
 def list_collections():
