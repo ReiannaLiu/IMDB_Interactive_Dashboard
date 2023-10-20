@@ -1,3 +1,4 @@
+/* --------------- Variables and Configurations --------------- */
 #container-max-widths {
     sm: 540px;
     md: 720px;
@@ -6,6 +7,32 @@
     xxl: 1320px;
 }
 
+/* --------------- Global Styles --------------- */
+body {
+    background-color: linear-gradient(to bottom, #FAFAFA, #E3E3E3);
+    color: #333333;
+    font-family: 'Arial', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #007B8A;
+}
+
+a {
+    color: #007B8A;
+    text-decoration: none;
+}
+
+.muted-text {
+    color: #7D7D7D;
+}
+
+/* --------------- Layout and Structure --------------- */
 #map {
     display: flex;
     justify-content: center;
@@ -16,27 +43,32 @@
     margin-top: 20px;
 }
 
+.container-xxl {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.table-container,
+#ratings {
+    overflow-y: auto;
+}
+
 .table-container {
     max-height: 400px;
-    overflow-y: auto;
 }
 
 #ratings {
     height: 400px;
-    overflow-y: auto;
 }
 
 .card {
     width: 250px;
-    height: 280px;
+    height: 300px;
     display: flex;
     flex-direction: column;
-}
-
-.card-img-top {
-    height: 200px;
-    object-fit: cover;
-    margin: 0 auto;
+    transition: transform 0.2s, box-shadow 0.2s;
 }
 
 .card-body {
@@ -51,6 +83,50 @@
     font-weight: bold;
 }
 
+/* --------------- Components --------------- */
+.btn-primary {
+    background-color: #007B8A;
+    border-color: #007B8A;
+}
+
 .navbar {
     margin-bottom: 20px;
+    background-color: #007B8A;
+}
+
+.navbar a,
+.navbar-brand {
+    color: #FAFAFA
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+/* --------------- Interactive States --------------- */
+a:hover {
+    color: #FF6B6B;
+}
+
+.btn-primary:hover {
+    background-color: #005965;
+    border-color: #005965;
+}
+
+.navbar a:hover {
+    color: #FF6B6B !important;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+}
+
+#modalTrigger {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
 }

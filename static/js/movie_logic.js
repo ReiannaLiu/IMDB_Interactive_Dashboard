@@ -20,7 +20,7 @@ function appendRowsToTable(data) {
         data.soundtracks.forEach(sound => {
             let row = tbody.append("tr");
             row.append("td").text(sound.soundtracks_name);
-            row.append("td").text(2);
+            row.append("td").text(sound.artist_name);
         });
     } else {
         let row = tbody.append("tr");
@@ -48,7 +48,7 @@ function drawHistogram(histData) {
     clearHistogram();
 
     // Prepare the SVG area
-    let svgWidth = 500, svgHeight = 400;
+    let svgWidth = 600, svgHeight = 400;
     let margin = { top: 20, right: 20, bottom: 30, left: 40 };
     let width = svgWidth - margin.left - margin.right;
     let height = svgHeight - margin.top - margin.bottom;
@@ -136,6 +136,8 @@ function optionChanged() {
     let dropdownMenu = d3.select("#selMovies");
     // Assign the value of the dropdown menu option to a variable
     let movie = dropdownMenu.property("value");
+    d3.select("h1").text(movie);
+    history.pushState(null, "", `/movie/${movie}`);
 
     let movieData = moviejson.filter(m => m.title === movie)[0];
 
