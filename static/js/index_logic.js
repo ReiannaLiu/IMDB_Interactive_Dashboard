@@ -32,7 +32,7 @@ function displayMovies(data) {
             // Container for the movie title
             let titleContainer = cell.append("div");
             titleContainer.append("a")
-                .attr("href", `/movie/${movie.title}`)
+                .attr("href", `movie.html?title=${movie.id}`)
                 .text(movie.title);
 
             // Container for the "More Info" button
