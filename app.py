@@ -38,6 +38,10 @@ def index():
 def movie_page(movie_name):
     return render_template('movie.html', movie_name=movie_name)
 
+@app.route('/api')
+def api():
+    return render_template('api.html')
+
 @app.route('/api/list_collections', methods=['GET'])
 def list_collections():
     collection_names = db.list_collection_names()
@@ -58,13 +62,6 @@ def read_document(document_id):
 def read_all():
     collection = db.movies
     documents = collection.find()
-
-    return JSONEncoder().encode(list(documents)), 200
-
-@app.route('/api/read_by_title/<title>', methods=['GET'])
-def read_by_title(title):
-    collection = db.movies
-    documents = collection.find({"title": title})
 
     return JSONEncoder().encode(list(documents)), 200
 

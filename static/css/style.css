@@ -99,11 +99,7 @@ a {
     color: #FAFAFA
 }
 
-.card-img-top {
-    height: 200px;
-    object-fit: cover;
-    margin: 0 auto;
-}
+
 
 /* --------------- Interactive States --------------- */
 a:hover {

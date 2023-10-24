@@ -26,7 +26,8 @@ function displayMovies(data) {
                 .attr("alt", movie.title)
                 .attr("class", "mx-auto d-block")
                 .style("height", "200px")
-                .style("width", "auto")
+                .style("width", "140px")
+                .style("object-fit", "contain")
                 .style("margin-bottom", "10px");
 
             // Container for the movie title
