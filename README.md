@@ -34,7 +34,7 @@ The IMDB Movies Dashboard has been crafted with a clear purpose in mind: to empo
 
 - **Languages**: HTML5, CSS3, JavaScript, Python 3
 - **Database**: MongoDB Atlas
-- **API**: Rapidapi for data extraction
+- **API**: Rapidapi,geoapify for data extraction
 - **Frameworks & Libraries**: Flask, Bootstrap, D3, Leaflet
 - **Development Tools**: Visual Studio Code
 
