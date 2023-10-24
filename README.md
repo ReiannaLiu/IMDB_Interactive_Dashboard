@@ -18,7 +18,7 @@ Welcome to the CineSight Dashboard! Designed for film enthusiasts, data analytic
 
 - **Languages**: HTML5, CSS3, JavaScript, Python 3
 - **Database**: MongoDB Atlas
-- **API**: Rapidapi for data collection
+- **API**: Rapidapi,geoapify for data collection
 - **Frameworks & Libraries**: Flask, Bootstrap, D3, Leaflet
 - **Development**: Visual Studio Code
 
